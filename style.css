@@ -1,0 +1,220 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Ubuntu'), local('Ubuntu-Regular'), url('http://themes.googleusercontent.com/font?kit=2Q-AW1e_taO6pHwMXcXW5w') format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url('http://themes.googleusercontent.com/font?kit=0ihfXUL2emPh0ROJezvraKCWcynf_cDxXwCLxiixG1c') format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Merriweather'), url('http://themes.googleusercontent.com/font?kit=RFda8w1V0eDZheqfcyQ4EInF5uFdDttMLvmWuJdhhgs') format('truetype');
+}
+@font-face {
+  font-family: 'GoudyA';
+  font-style: normal;
+  font-weight: normal;
+  src: local('OFL Sorts Mill Goudy TT'), local('OFLGoudyStMTT'), url('http://themes.googleusercontent.com/font?kit=9ZZVVBRCceNnPBXqWLH8INC5-FYgMOm9n-SazquSTDY') format('woff');
+}
+
+
+
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+html, body {
+	height:100%;
+   display:block;
+}
+
+#footer{
+    font-family: "GoudyA", Arial, sans-serif;
+    font-style:oblique;
+    text-align: center;
+    color:#4F4F4F;
+    margin:20px 0px 10px 0px;
+}
+
+/** thanks to Adesuyan Bobby @ bigbrovar.aoizora.org for the background and general
+layout, 2010 */
+body{
+    /** background:url(../img/bg.jpg) top center no-repeat; **/
+background-color:#F2F2F2; /**3c3b37 **/
+    text-align:center;
+}
+
+
+
+#menubar{
+}
+
+a:link{ 
+    text-decoration: none;
+    color:#F07746;
+}
+a:visited{ 
+    text-decoration: none;
+    color:#F07746;
+}
+a:hover{ 
+    color:#0099FF;
+}
+a:active{ 
+} 
+
+#content{
+    width: 800px;
+    margin:0 auto;
+    display:block;
+}
+
+#tophead{
+    margin:0px 0px 20px 0px;
+    padding:10px 15px 0px 0px;
+    text-align:center;
+    width:800px;
+
+    
+}
+
+#bannerlogo{
+    height:110px;
+    margin: 0 20px 0 0;
+}
+#tophead ul{
+    border-color:#8C8C8C;
+    border-width:1px;
+    border-bottom-style: solid;
+    padding:10px 0px 10px 0px;
+    margin:0px 0px 30px 0px;
+}
+#tophead ul li{
+    height:20px;
+    width: 100px;   
+    font-family: 'GoudyA', arial, serif;
+    margin:0px 10px 0px 10px;
+    display: inline;
+    list-style-type: none;
+    
+}
+#tophead ul li a:link{ 
+    text-decoration: none;
+    color:#4F4F4F;
+}
+#tophead ul li a:visited{ 
+    text-decoration: none;
+    color:#4F4F4F;
+}
+#tophead ul li a:hover{ 
+    color:#0099FF;
+}
+#tophead ul li a:active{ 
+} 
+#select{
+}
+
+
+#posts{
+    display:block;
+    font-size-adjust: none;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    text-align: left;
+}
+
+/** posts layout modified from wordpress general layout, 2010 */
+div.post{
+    margin:0px 0px 10px 0px;
+	 padding:10px 15px 10px 15px;
+    border-color:#8C8C8C;
+    border-width:1px;
+    border-bottom-style: solid;
+
+}
+
+div.post h1{
+    font-family: 'GoudyA', arial, sans-serif;
+    color:#000000;
+    font-size: 26px;
+    margin:0px 0px 10px 0px;
+    
+}
+
+div.post h1 a:link{
+    text-decoration: none;
+    color:#494844;
+}
+div.post h1 a:visited{ 
+    text-decoration: none;
+    color:#494844;
+}
+div.post h1 a:hover{ 
+    color:#0099FF;
+}
+div.post h1 a:active{ 
+} 
+
+
+div.post p{
+    font-family: 'Merriweather', arial, serif;
+    color: #4F4F4F;
+    font-size: 15px;
+    margin:0px 0px 20px 0px;
+}
+
+div.post ul{
+    padding-left: 50px; 
+}
+div.post ul li{
+    font-family: 'Merriweather', arial, serif;
+    color: #4F4F4F;
+    font-size: 15px; 
+}
+div.attributes {
+   text-align:right;
+   padding:15px 0px 0px 0px;
+   font-family:'GoudyA', arial, sans-serif;
+   color:#4F4F4F;
+   font-size: 16px;
+}
+
+div.attributes ul li{
+    display:inline;
+    list-style-type:none;
+    padding-left:10px;
+}
+div.attributes a:link{
+    color:#4F4F4F;
+    font-size:13px;  
+}
+div.attributes a:visited{ 
+    text-decoration:none;
+    color:#4F4F4F;
+}
+div.attributes a:hover{ 
+    color:#0099FF;
+}
+div.attributes a:active{ 
+} 
+table td {
+	text-align:left;
+	vertical-align:top;
+	padding:15px;
+}
+.author {
+   text-align:right;
+}
+
+
