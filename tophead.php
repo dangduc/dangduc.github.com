@@ -24,9 +24,10 @@
 
 
 <div id="leftcolumn">
-
-   <div id="menu">
+</div>
+<div id="menu">
    <ul>
+         
          <li <?php if(is_home()) echo 'id="select"'; ?>>        
             <a href="<?php bloginfo("url"); ?>">Home</a>
          </li>
@@ -35,5 +36,4 @@
          </li>
    </ul>
    </div>
-</div>
 

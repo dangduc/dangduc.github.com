@@ -28,6 +28,12 @@
   font-weight: normal;
   src: local('Geo'), local('Geo-Regular'), url('http://themes.googleusercontent.com/static/fonts/geo/v2/av0TkpgOwGmqABT09bQMSA.woff') format('woff');
 }
+@font-face {
+  font-family: 'Changa One';
+  font-style: normal;
+  font-weight: normal;
+  src: local('ChangaOne-Regular'), url('http://themes.googleusercontent.com/static/fonts/changaone/v1/QmTOgNNWM9ly3K3B2X29HBsxEYwM7FgeyaSgU71cLG0.woff') format('woff');
+}
 
 
 *{
@@ -66,19 +72,20 @@ a:active{
 
 #leftcolumn{
    top:0px;
-   margin-left: 720px;
+   margin-left:805px;
    position: fixed;
-   width:100px;
+   width:20px;
    height:300px;
    background:url(http://localhost/img/blue.png); 
    border-style:none solid solid solid;
-   border-color:#00455E;
-   border-radius: 0 0 15px 15px;
+      border-color:#494844;
    border-width:2px;
-   -moz-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
-   -webkit-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
-   -khtml-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
-   box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   border-radius: 0 0 3px 3px;
+
+   -moz-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    
 
 }
@@ -92,49 +99,67 @@ div.category span{
    background:url(http://localhost/img/orange.png); 
    border-style: solid solid solid none;
    border-color:#494844;
-   border-width:3px;
-   border-radius: 0 20px 20px 0;
-   -moz-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
-   -webkit-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
-   -khtml-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
-   box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
-   text-shadow:#4F3E10 1px 1px 0, #fff -1px -1px -0;
+   border-width:2px;
+   border-radius: 0 4px 4px 0;
+   -moz-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   text-shadow:#4F3E10 1px 1px 0;
    color:#494844;
-   font-weight:900;
+
    font-family: 'Geo', arial, serif;
    font-size: 22px;
-
    letter-spacing:0.1em;
    
 }
 
 
 #menu{
-   width:90%;
-   height:99%;
+   top:0px;
+   margin-left: 720px;
+   position: fixed;
+   width:100px;
+   height:300px;
    float:center;
    border-width:2px;
    border-color:#F2F2F2;
+   border-radius: 0 0 0 100px;
    border-style:none dashed none none;
 }
 #menu ul{
-
+   margin:10px 0 0 0;
 }
 #menu ul li{
-    font-family: arial, serif;
-    list-style-type: none;
+   display:inline-block;
+   float:right;
+   font-family: 'Changa One', arial, serif;
+   font-size:14px;
+   letter-spacing:0.1em;
+   list-style-type: none;
+   background-color:#0B2E40;
+   margin: 0 0 30px 0;
+   padding: 3px 6px 3px 6px;
+
+   border-radius: 4px 0 0 4px;
+   -moz-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
+   text-shadow:#4F3E10 1px 1px 0;
+    
     
 }
 #menu ul li a:link{ 
-    text-decoration: none;
-    color:#F2F2F2;
+   text-decoration: none;
+   color:#F2F2F2;
 }
 #menu ul li a:visited{ 
-    text-decoration: none;
-    color:#F2F2F2;
+   text-decoration: none;
+   color:#F2F2F2;
 }
 #menu ul li a:hover{ 
-    color:#0099FF;
+   color:#F8D252;
 }
 #menu ul li a:active{ 
 } 
@@ -143,10 +168,10 @@ div.category span{
 
 
 .posts{
-    margin-left:10px;
-    width: 700px;
-    line-height: 1.5;
-    text-align: left;
+   margin-left:10px;
+   width: 700px;
+   line-height: 1.5;
+   text-align: left;
 }
 
 /** posts layout modified from wordpress general layout, 2010 */
