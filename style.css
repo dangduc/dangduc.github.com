@@ -69,32 +69,12 @@ a:active{
 } 
 
 
-
-#leftcolumn{
-   top:0px;
-   margin-left:805px;
-   position: fixed;
-   width:20px;
-   height:300px;
-   background:url(http://localhost/img/blue.png); 
-   border-style:none solid solid solid;
-      border-color:#494844;
-   border-width:2px;
-   border-radius: 0 0 3px 3px;
-
-   -moz-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   
-
-}
 .category{
    text-align:left;
    top:0px;
    margin-top: 25px;
 }
-div.category span{
+div.category span a{
    padding: 2px 20px 2px 10px;
    background:url(http://localhost/img/orange.png); 
    border-style: solid solid solid none;
@@ -105,14 +85,18 @@ div.category span{
    -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   text-shadow:#4F3E10 1px 1px 0;
    color:#494844;
 
    font-family: 'Geo', arial, serif;
    font-size: 22px;
    letter-spacing:0.1em;
-   
 }
+
+div.category span a:hover{ 
+    color:#FFFFFF;
+}
+div.category span a:active{ 
+} 
 
 
 #menu{
@@ -123,7 +107,7 @@ div.category span{
    height:300px;
    float:center;
    border-width:2px;
-   border-color:#F2F2F2;
+   border-color:#494844;
    border-radius: 0 0 0 100px;
    border-style:none dashed none none;
 }
@@ -172,12 +156,19 @@ div.category span{
    width: 700px;
    line-height: 1.5;
    text-align: left;
+       border-color:#8C8C8C;
+    border-width:2px;
+    border-left-style: dashed;
 }
 
 /** posts layout modified from wordpress general layout, 2010 */
 div.post{
  
 	 padding:10px 15px 10px 15px;
+    margin:0px 0px 10px 0px;
+    border-color:#8C8C8C;
+    border-width:2px;
+    border-bottom-style: dashed;
 
 
 }
@@ -187,6 +178,7 @@ div.post h1{
     color:#000000;
     font-size: 26px;
     margin:0px 0px 10px 0px;
+    
     
 }
 
@@ -251,6 +243,14 @@ table td {
 	vertical-align:top;
 	padding:15px;
 }
-
+#footer{
+   width:700px;
+   height:30px;
+   font-family: "GoudyA", Arial, sans-serif;
+   font-style:oblique;
+   text-align: center;
+   color:#4F4F4F;
+   margin:20px 0px 10px 0px;
+}
 
 
