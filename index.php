@@ -1,5 +1,5 @@
 <?php get_template_part('tophead'); ?>
-   <?php $categories = get_categories(array( 'hide_empty'=>1)); ?>
+   <?php $categories = get_categories(array( 'hide_empty'=>1,'order'=>'DESC')); ?>
    <?php foreach($categories as $cat): ?>
       <div class="category"><span><a href="<?php echo get_bloginfo('home').'?cat='.$cat->cat_ID;?>"><?php echo $cat->cat_name; ?></a></span></div>
       <div class="posts">
