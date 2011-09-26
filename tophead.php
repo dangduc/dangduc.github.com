@@ -22,18 +22,18 @@
 
 <body>
 
-<div id="content">
 
-<div id="tophead">
-   
+<div id="leftcolumn">
+
+   <div id="menu">
    <ul>
-      <li <?php if(is_home()) echo 'id="select"'; ?>>        
-         <a href="<?php bloginfo("url"); ?>">Recent Posts</a>
-      </li>
-      <li <?php if(is_page( "About me" )) echo 'id="select"'; ?>>  
-         <a href="<?php bloginfo("url"); ?>/about-me/">About Me</a>
-      </li>
-
+         <li <?php if(is_home()) echo 'id="select"'; ?>>        
+            <a href="<?php bloginfo("url"); ?>">Home</a>
+         </li>
+         <li <?php if(is_page( "About me" )) echo 'id="select"'; ?>>  
+            <a href="<?php bloginfo("url"); ?>/about-me/">About Me</a>
+         </li>
    </ul>
-   
-</div> <!-- end tophead-->
+   </div>
+</div>
+

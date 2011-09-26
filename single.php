@@ -1,5 +1,5 @@
 <?php get_template_part('tophead'); ?>
-<div id="posts">
+<div class="posts">
  
    <?php if(have_posts()) : ?><?php while(have_posts()) : the_post(); ?>
       <div class="post" id="post-<?php the_ID(); ?>">
@@ -25,8 +25,8 @@
       </div>
    <?php endif; ?>
 </div> <!-- end posts -->
-   <div id="footer">Duc Dang, 2010</div>
-</div> <!-- end content -->
+
+
 
 </body>
 

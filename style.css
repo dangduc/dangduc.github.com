@@ -22,9 +22,12 @@
   font-weight: normal;
   src: local('OFL Sorts Mill Goudy TT'), local('OFLGoudyStMTT'), url('http://themes.googleusercontent.com/font?kit=9ZZVVBRCceNnPBXqWLH8INC5-FYgMOm9n-SazquSTDY') format('woff');
 }
-
-
-
+@font-face {
+  font-family: 'Geo';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Geo'), local('Geo-Regular'), url('http://themes.googleusercontent.com/static/fonts/geo/v2/av0TkpgOwGmqABT09bQMSA.woff') format('woff');
+}
 
 
 *{
@@ -33,30 +36,17 @@
 }
 
 html, body {
-	height:100%;
-   display:block;
+   text-align: center;
+
 }
 
-#footer{
-    font-family: "GoudyA", Arial, sans-serif;
-    font-style:oblique;
-    text-align: center;
-    color:#4F4F4F;
-    margin:20px 0px 10px 0px;
-}
 
-/** thanks to Adesuyan Bobby @ bigbrovar.aoizora.org for the background and general
-layout, 2010 */
+
 body{
-    /** background:url(../img/bg.jpg) top center no-repeat; **/
-background-color:#F2F2F2; /**3c3b37 **/
-    text-align:center;
+   background:url(http://localhost/img/bg.png); 
 }
 
 
-
-#menubar{
-}
 
 a:link{ 
     text-decoration: none;
@@ -72,75 +62,98 @@ a:hover{
 a:active{ 
 } 
 
-#content{
-    width: 800px;
-    margin:0 auto;
-    display:block;
+
+
+#leftcolumn{
+   top:0px;
+   margin-left: 720px;
+   position: fixed;
+   width:100px;
+   height:300px;
+   background:url(http://localhost/img/blue.png); 
+   border-style:none solid solid solid;
+   border-color:#00455E;
+   border-radius: 0 0 15px 15px;
+   border-width:2px;
+   -moz-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   -webkit-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   -khtml-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   
+
+}
+.category{
+   text-align:left;
+   top:0px;
+   margin-top: 25px;
+}
+div.category span{
+   padding: 2px 20px 2px 10px;
+   background:url(http://localhost/img/orange.png); 
+   border-style: solid solid solid none;
+   border-color:#494844;
+   border-width:3px;
+   border-radius: 0 20px 20px 0;
+   -moz-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   -webkit-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   -khtml-box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   box-shadow:rgba(200,200,200,0.7) 0 4px 15px -1px;
+   text-shadow:#4F3E10 1px 1px 0, #fff -1px -1px -0;
+   color:#494844;
+   font-weight:900;
+   font-family: 'Geo', arial, serif;
+   font-size: 22px;
+
+   letter-spacing:0.1em;
+   
 }
 
-#tophead{
-    margin:0px 0px 20px 0px;
-    padding:10px 15px 0px 0px;
-    text-align:center;
-    width:800px;
 
-    
+#menu{
+   width:90%;
+   height:99%;
+   float:center;
+   border-width:2px;
+   border-color:#F2F2F2;
+   border-style:none dashed none none;
 }
+#menu ul{
 
-#bannerlogo{
-    height:110px;
-    margin: 0 20px 0 0;
 }
-#tophead ul{
-    border-color:#8C8C8C;
-    border-width:1px;
-    border-bottom-style: solid;
-    padding:10px 0px 10px 0px;
-    margin:0px 0px 30px 0px;
-}
-#tophead ul li{
-    height:20px;
-    width: 100px;   
-    font-family: 'GoudyA', arial, serif;
-    margin:0px 10px 0px 10px;
-    display: inline;
+#menu ul li{
+    font-family: arial, serif;
     list-style-type: none;
     
 }
-#tophead ul li a:link{ 
+#menu ul li a:link{ 
     text-decoration: none;
-    color:#4F4F4F;
+    color:#F2F2F2;
 }
-#tophead ul li a:visited{ 
+#menu ul li a:visited{ 
     text-decoration: none;
-    color:#4F4F4F;
+    color:#F2F2F2;
 }
-#tophead ul li a:hover{ 
+#menu ul li a:hover{ 
     color:#0099FF;
 }
-#tophead ul li a:active{ 
+#menu ul li a:active{ 
 } 
 #select{
 }
 
 
-#posts{
-    display:block;
-    font-size-adjust: none;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
+.posts{
+    margin-left:10px;
+    width: 700px;
     line-height: 1.5;
     text-align: left;
 }
 
 /** posts layout modified from wordpress general layout, 2010 */
 div.post{
-    margin:0px 0px 10px 0px;
+ 
 	 padding:10px 15px 10px 15px;
-    border-color:#8C8C8C;
-    border-width:1px;
-    border-bottom-style: solid;
+
 
 }
 
@@ -213,8 +226,6 @@ table td {
 	vertical-align:top;
 	padding:15px;
 }
-.author {
-   text-align:right;
-}
+
 
 
