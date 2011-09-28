@@ -27,13 +27,13 @@
 <div id="menu">
    <ul>
       <li> 
-         <div class="icon"><a href="<?php bloginfo('url'); ?>"><img src="/img/home.png"/><span>Home</span></a></div>
+         <div class="icon"><a href="<?php bloginfo('url'); ?>"><img src="./wp-content/themes/superman7/images/home.png"/><span>Home</span></a></div>
       </li>
       <li>  
-         <div class="icon"><a href="<?php bloginfo('url'); ?>/about-me/"><img src="/img/about.png"/><span>About Me</span></a></div>
+         <div class="icon"><a href="<?php bloginfo('url'); ?>/about-me/"><img src="./wp-content/themes/superman7/images/about.png"/><span>About Me</span></a></div>
       </li>
       <li>  
-         <div class="icon"><a href="http://github.com/dangduc/"><img src="/img/github2.png"/><span>GitHub</span></a></div>
+         <div class="icon"><a href="http://github.com/dangduc/"><img src="./wp-content/themes/superman7/images/github.png"/><span>GitHub</span></a></div>
       </li>
    </ul>
 </div>

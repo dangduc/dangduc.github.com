@@ -17,12 +17,13 @@
             </div> <!-- end entry -->
          </div> <!-- end post -->
          <?php endwhile; ?> <!-- end foreach of post for a category -->
+         <?php else : ?>
+         <div class="post">
+            <h2>Not Found</h2>
+         </div>
+         <?php endif; ?>
       </div> <!-- end posts -->
-   <?php else : ?>
-      <div class="post">
-         <h2>Not Found</h2>
-      </div>
-   <?php endif; ?>
+      
    <div id="footer">Duc Dang, 2010</div>
 
 </body>

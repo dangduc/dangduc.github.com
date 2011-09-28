@@ -1,40 +1,39 @@
-@font-face {
+@font-face{
   font-family: 'Ubuntu';
   font-style: normal;
   font-weight: normal;
   src: local('Ubuntu'), local('Ubuntu-Regular'), url('http://themes.googleusercontent.com/font?kit=2Q-AW1e_taO6pHwMXcXW5w') format('truetype');
 }
-@font-face {
+@font-face{
   font-family: 'Ubuntu';
   font-style: normal;
   font-weight: bold;
   src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url('http://themes.googleusercontent.com/font?kit=0ihfXUL2emPh0ROJezvraKCWcynf_cDxXwCLxiixG1c') format('truetype');
 }
-@font-face {
+@font-face{
   font-family: 'Merriweather';
   font-style: normal;
   font-weight: normal;
   src: local('Merriweather'), url('http://themes.googleusercontent.com/font?kit=RFda8w1V0eDZheqfcyQ4EInF5uFdDttMLvmWuJdhhgs') format('truetype');
 }
-@font-face {
+@font-face{
   font-family: 'GoudyA';
   font-style: normal;
   font-weight: normal;
   src: local('OFL Sorts Mill Goudy TT'), local('OFLGoudyStMTT'), url('http://themes.googleusercontent.com/font?kit=9ZZVVBRCceNnPBXqWLH8INC5-FYgMOm9n-SazquSTDY') format('woff');
 }
-@font-face {
+@font-face{
   font-family: 'Geo';
   font-style: normal;
   font-weight: normal;
   src: local('Geo'), local('Geo-Regular'), url('http://themes.googleusercontent.com/static/fonts/geo/v2/av0TkpgOwGmqABT09bQMSA.woff') format('woff');
 }
-@font-face {
+@font-face{
   font-family: 'Changa One';
   font-style: normal;
   font-weight: normal;
   src: local('ChangaOne-Regular'), url('http://themes.googleusercontent.com/static/fonts/changaone/v1/QmTOgNNWM9ly3K3B2X29HBsxEYwM7FgeyaSgU71cLG0.woff') format('woff');
 }
-
 
 *{
 	margin:0;
@@ -42,242 +41,234 @@
 }
 
 html, body {
-   text-align: center;
-
+   text-align:center;
 }
-
-
 
 body{
-   background:url(/img/bg.png); 
+   background:url(http://dangduc.com/wp-content/themes/superman7/images/bg.png); 
 }
-
-
 
 a:link{ 
-    text-decoration: none;
-    color:#F07746;
+   text-decoration:none;
+   color:#F07746;
 }
-a:visited{ 
-    text-decoration: none;
-    color:#F07746;
-}
-a:hover{ 
-    color:#0099FF;
-}
-a:active{ 
-} 
 
+a:visited{ 
+   text-decoration:none;
+   color:#F07746;
+}
+
+a:hover{ 
+   color:#0099FF;
+}
 
 .category{
    text-align:left;
    top:0px;
-   margin-top: 25px;
+   margin-top:25px;
 }
+
 div.category span a{
-   padding: 2px 20px 2px 10px;
-   background:url(/img/orange.png); 
-   border-style: solid solid solid none;
+   padding:2px 20px 2px 10px;
+   background:url(http://dangduc.com/wp-content/themes/superman7/images/orange.png); 
+   border-style:solid solid solid none;
    border-color:#494844;
    border-width:2px;
-   border-radius: 0 4px 4px 0;
+   border-radius:0 4px 4px 0;
    -moz-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    color:#494844;
-
-   font-family: 'Geo', arial, serif;
+   font-family:'Geo',arial,serif;
    font-size: 22px;
    letter-spacing:0.1em;
 }
 
 div.category span a:hover{ 
-    color:#FFFFFF;
+   color:#FFFFFF;
 }
 div.category span a:active{ 
 } 
 
-
 #menu{
    top:0px;
-   margin-left: 720px;
-   position: fixed;
+   margin-left:720px;
+   position:fixed;
    width:100px;
    height:300px;
    float:center;
    border-width:2px;
    border-color:#494844;
-   border-radius: 0 0 0 100px;
+   border-radius:0 0 0 100px;
    border-style:none dashed none none;
 }
+
 #menu ul{
    margin:10px 0 0 0;
 }
+
 #menu ul li{
    display:inline-block;
    float:right;
-   font-family: 'Changa One', arial, serif;
+   font-family:'Changa One',arial,serif;
    font-size:14px;
    letter-spacing:0.1em;
-   list-style-type: none;
+   list-style-type:none;
    background-color:#0B2E40;
-   margin: 0 0 30px 0;
-   padding: 3px 6px 3px 6px;
-
-   border-radius: 4px 0 0 4px;
+   margin:0 0 30px 0;
+   padding:3px 6px 3px 6px;
+   border-radius:4px 0 0 4px;
    -moz-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    text-shadow:#4F3E10 1px 1px 0;
-    
-    
 }
+
 #menu ul li a:link{ 
-   text-decoration: none;
+   text-decoration:none;
    color:#F2F2F2;
 }
+
 #menu ul li a:visited{ 
-   text-decoration: none;
+   text-decoration:none;
    color:#F2F2F2;
 }
+
 #menu ul li a:hover{ 
    color:#F8D252;
 }
-#menu ul li a:active{ 
-} 
-#select{
-}
-
 
 .posts{
    margin-left:10px;
-   width: 700px;
-   line-height: 1.5;
-   text-align: left;
-
+   width:700px;
+   line-height:1.5;
+   text-align:left;
 }
 
-/** posts layout modified from wordpress general layout, 2010 */
 div.post{
- 
-	 padding:10px 15px 10px 15px;
-    margin:0px 0px 10px 0px;
-    border-color:#8C8C8C;
-    border-width:2px;
-    border-bottom-style: dashed;
-
-
+   padding:10px 15px 10px 15px;
+   margin:0px 0px 10px 0px;
+   border-color:#8C8C8C;
+   border-width:2px;
+   border-bottom-style: dashed;
 }
 
 div.post h1{
-    font-family: 'GoudyA', arial, sans-serif;
-    color:#000000;
-    font-size: 26px;
-    margin:0px 0px 10px 0px;
-    
-    
+   font-family:'GoudyA',arial,sans-serif;
+   color:#000000;
+   font-size:26px;
+   margin:0px 0px 10px 0px;
 }
 
 div.post h1 a:link{
-    text-decoration: none;
-    color:#494844;
+   text-decoration:none;
+   color:#494844;
 }
-div.post h1 a:visited{ 
-    text-decoration: none;
-    color:#494844;
-}
-div.post h1 a:hover{ 
-    color:#0099FF;
-}
-div.post h1 a:active{ 
-} 
 
+div.post h1 a:visited{ 
+   text-decoration:none;
+   color:#494844;
+}
+
+div.post h1 a:hover{ 
+   color:#0099FF;
+}
 
 div.post p{
-    font-family: 'Merriweather', arial, serif;
-    color: #4F4F4F;
-    font-size: 15px;
-    margin:0px 0px 20px 0px;
+   font-family:'Merriweather',arial,serif;
+   color:#4F4F4F;
+   font-size:15px;
+   margin:0px 0px 20px 0px;
 }
 
 div.post ul{
-    padding-left: 50px; 
+   padding-left:50px; 
 }
+
 div.post ul li{
-    font-family: 'Merriweather', arial, serif;
-    color: #4F4F4F;
-    font-size: 15px; 
+    font-family:'Merriweather',arial,serif;
+    color:#4F4F4F;
+    font-size:15px; 
 }
-div.attributes {
+
+div.attributes{
    text-align:right;
    padding:15px 0px 0px 0px;
-   font-family:'GoudyA', arial, sans-serif;
+   font-family:'GoudyA',arial,sans-serif;
    color:#4F4F4F;
-   font-size: 16px;
+   font-size:16px;
 }
 
 div.attributes ul li{
-    display:inline;
-    list-style-type:none;
-    padding-left:10px;
+   display:inline;
+   list-style-type:none;
+   padding-left:10px;
 }
+
 div.attributes a:link{
     color:#4F4F4F;
     font-size:13px;  
 }
+
 div.attributes a:visited{ 
     text-decoration:none;
     color:#4F4F4F;
 }
+
 div.attributes a:hover{ 
     color:#0099FF;
 }
-div.attributes a:active{ 
-} 
-table td {
+
+table td{
 	text-align:left;
 	vertical-align:top;
 	padding:15px;
 }
+
 #footer{
    width:700px;
    height:30px;
-   font-family: "GoudyA", Arial, sans-serif;
+   font-family:"GoudyA",Arial,sans-serif;
    font-style:oblique;
-   text-align: center;
+   text-align:center;
    color:#4F4F4F;
    margin:20px 0px 10px 0px;
 }
-.icon a {
-    width: 29px; height:29px; 
-    overflow: hidden;
-    display:inline-block;
-    margin-right:10px;
+
+.icon a{
+   width:29px;
+   height:29px;
+   overflow:hidden;
+   display:inline-block;
+   margin-right:10px;
 }
-.icon img {
-    border: none;
+
+.icon img{
+   border:none;
 }
-.icon a:hover img {
-    margin-top:-29px;
+
+.icon a:hover img{
+   margin-top:-29px;
 }
-.icon span {
+
+.icon span{
    display:none;
 }
-.icon a:hover span {
+
+.icon a:hover span{
    display:block;
-   position: absolute; left: 0; width: 125px;
-   margin: 10px 0 0 60px;
-   z-index: 100;
-   text-align: left;
+   position:absolute; 
+   left:0; 
+   width:125px;
+   margin:10px 0 0 60px;
+   z-index:100;
+   text-align:left;
    writing-mode:tb-rl;
 	-webkit-transform:rotate(90deg);
 	-moz-transform:rotate(90deg);
 	-o-transform: rotate(90deg);
 	white-space:nowrap;
-
 	font-size:36px;
 }
-
-
