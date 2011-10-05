@@ -139,7 +139,6 @@ div.post h1{
    font-family:'Open Sans',arial,sans-serif;
    color:#2AA198;
    font-size:32px;
-   margin:0px 0px 10px 0px;
    font-weight:bold;
 }
 
@@ -175,10 +174,10 @@ div.post ul li{
 }
 
 div.attributes{
-   text-align:right;
-   padding:15px 0px 0px 0px;
+   text-align:left;
+   padding:0px 0px 15px 15px;
    font-family:'Didact Gothic',arial,sans-serif;
-   color:#657B83;
+   color:#93A1A1;
    font-size:16px;
 }
 

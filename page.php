@@ -8,10 +8,10 @@
          <h1><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" ><?php the_title(); ?></a><?php edit_post_link("Edit", " ", ""); ?></h1>
          
          <div class="entry">
-            <?php the_content(); ?>
             <div class="attributes">
                <?php the_time("l F j, Y") ?> <br />
-            </div>  <!-- end attributes -->       
+            </div>  <!-- end attributes -->  
+            <?php the_content(); ?>
          </div> <!-- end entry -->
       </div> <!-- end post -->
       <?php endwhile; ?>
