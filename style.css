@@ -1,28 +1,4 @@
 @font-face{
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Ubuntu'), local('Ubuntu-Regular'), url('http://themes.googleusercontent.com/font?kit=2Q-AW1e_taO6pHwMXcXW5w') format('truetype');
-}
-@font-face{
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: bold;
-  src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url('http://themes.googleusercontent.com/font?kit=0ihfXUL2emPh0ROJezvraKCWcynf_cDxXwCLxiixG1c') format('truetype');
-}
-@font-face{
-  font-family: 'Merriweather';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Merriweather'), url('http://themes.googleusercontent.com/font?kit=RFda8w1V0eDZheqfcyQ4EInF5uFdDttMLvmWuJdhhgs') format('truetype');
-}
-@font-face{
-  font-family: 'GoudyA';
-  font-style: normal;
-  font-weight: normal;
-  src: local('OFL Sorts Mill Goudy TT'), local('OFLGoudyStMTT'), url('http://themes.googleusercontent.com/font?kit=9ZZVVBRCceNnPBXqWLH8INC5-FYgMOm9n-SazquSTDY') format('woff');
-}
-@font-face{
   font-family: 'Geo';
   font-style: normal;
   font-weight: normal;
@@ -34,6 +10,26 @@
   font-weight: normal;
   src: local('ChangaOne-Regular'), url('http://themes.googleusercontent.com/static/fonts/changaone/v1/QmTOgNNWM9ly3K3B2X29HBsxEYwM7FgeyaSgU71cLG0.woff') format('woff');
 }
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rokkitt'), url('http://themes.googleusercontent.com/static/fonts/rokkitt/v3/4Z-2qkHrI1biwaOxvW6ZTA.woff') format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url('http://themes.googleusercontent.com/static/fonts/opensans/v4/EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff') format('woff');
+}
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url('http://themes.googleusercontent.com/static/fonts/droidsans/v1/EFpQQyG9GqCrobXxL-KRMQFhaRv2pGgT5Kf0An0s4MM.woff') format('woff');
+}
+
+
 
 *{
 	margin:0;
@@ -42,24 +38,25 @@
 
 html, body {
    text-align:center;
+
 }
 
 body{
-   background:url(http://dangduc.com/wp-content/themes/superman7/images/bg.png); 
+   background-color:#FDF6E3;
 }
 
 a:link{ 
    text-decoration:none;
-   color:#F07746;
+   color:#d33682;
 }
 
 a:visited{ 
    text-decoration:none;
-   color:#F07746;
+   color:#d33682;
 }
 
 a:hover{ 
-   color:#0099FF;
+   color:#b58900;
 }
 
 .category{
@@ -70,15 +67,9 @@ a:hover{
 
 div.category span a{
    padding:2px 20px 2px 10px;
-   background:url(http://dangduc.com/wp-content/themes/superman7/images/orange.png); 
    border-style:solid solid solid none;
    border-color:#494844;
    border-width:2px;
-   border-radius:0 4px 4px 0;
-   -moz-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
    color:#494844;
    font-family:'Geo',arial,serif;
    font-size: 22px;
@@ -93,15 +84,13 @@ div.category span a:active{
 
 #menu{
    top:0px;
-   margin-left:720px;
+   margin-left:90%;
    position:fixed;
-   width:100px;
-   height:300px;
+   width:32px;
+   height:100%;
    float:center;
-   border-width:2px;
-   border-color:#494844;
-   border-radius:0 0 0 100px;
-   border-style:none dashed none none;
+   background-color:#2AA198;
+
 }
 
 #menu ul{
@@ -110,20 +99,14 @@ div.category span a:active{
 
 #menu ul li{
    display:inline-block;
-   float:right;
+   float:center;
    font-family:'Changa One',arial,serif;
    font-size:14px;
    letter-spacing:0.1em;
    list-style-type:none;
-   background-color:#0B2E40;
    margin:0 0 30px 0;
-   padding:3px 6px 3px 6px;
-   border-radius:4px 0 0 4px;
-   -moz-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   -webkit-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   -khtml-box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   box-shadow:rgba(50,50,50,0.7) 0 2px 2px -1px;
-   text-shadow:#4F3E10 1px 1px 0;
+
+
 }
 
 #menu ul li a:link{ 
@@ -137,49 +120,47 @@ div.category span a:active{
 }
 
 #menu ul li a:hover{ 
-   color:#F8D252;
+   color:#d33682;
 }
 
 .posts{
-   margin-left:10px;
-   width:700px;
+   width:90%;
    line-height:1.5;
    text-align:left;
+   height:100%;
 }
 
 div.post{
    padding:10px 15px 10px 15px;
    margin:0px 0px 10px 0px;
-   border-color:#8C8C8C;
-   border-width:2px;
-   border-bottom-style: dashed;
 }
 
 div.post h1{
-   font-family:'GoudyA',arial,sans-serif;
-   color:#000000;
-   font-size:26px;
+   font-family:'Open Sans',arial,sans-serif;
+   color:#2AA198;
+   font-size:32px;
    margin:0px 0px 10px 0px;
+   font-weight:bold;
 }
 
 div.post h1 a:link{
    text-decoration:none;
-   color:#494844;
+   color:#2AA198;
 }
 
 div.post h1 a:visited{ 
    text-decoration:none;
-   color:#494844;
+   color:#2AA198;
 }
 
 div.post h1 a:hover{ 
-   color:#0099FF;
+   color:#D33682;
 }
 
 div.post p{
-   font-family:'Merriweather',arial,serif;
-   color:#4F4F4F;
-   font-size:15px;
+   font-family:'Rokkitt',arial,serif;
+   color:#657B83;
+   font-size:22px;
    margin:0px 0px 20px 0px;
 }
 
@@ -188,16 +169,16 @@ div.post ul{
 }
 
 div.post ul li{
-    font-family:'Merriweather',arial,serif;
-    color:#4F4F4F;
+    font-family:'Rokkitt',arial,serif;
+    color:#657B83;
     font-size:15px; 
 }
 
 div.attributes{
    text-align:right;
    padding:15px 0px 0px 0px;
-   font-family:'GoudyA',arial,sans-serif;
-   color:#4F4F4F;
+   font-family:'Didact Gothic',arial,sans-serif;
+   color:#657B83;
    font-size:16px;
 }
 
@@ -208,17 +189,17 @@ div.attributes ul li{
 }
 
 div.attributes a:link{
-    color:#4F4F4F;
+    color:#657B83;
     font-size:13px;  
 }
 
 div.attributes a:visited{ 
     text-decoration:none;
-    color:#4F4F4F;
+    color:#657B83;
 }
 
 div.attributes a:hover{ 
-    color:#0099FF;
+    color:#D33682;
 }
 
 table td{
@@ -227,22 +208,14 @@ table td{
 	padding:15px;
 }
 
-#footer{
-   width:700px;
-   height:30px;
-   font-family:"GoudyA",Arial,sans-serif;
-   font-style:oblique;
-   text-align:center;
-   color:#4F4F4F;
-   margin:20px 0px 10px 0px;
-}
+
 
 .icon a{
    width:29px;
    height:29px;
    overflow:hidden;
    display:inline-block;
-   margin-right:10px;
+   margin-right:0px;
 }
 
 .icon img{
@@ -260,9 +233,10 @@ table td{
 .icon a:hover span{
    display:block;
    position:absolute; 
-   left:0; 
-   width:125px;
-   margin:10px 0 0 60px;
+   top:60px;
+   left:-10px;
+   width:120px;
+   margin:0 0 0 0;
    z-index:100;
    text-align:left;
    writing-mode:tb-rl;

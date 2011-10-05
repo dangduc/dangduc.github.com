@@ -24,7 +24,7 @@
          <?php endif; ?>
       </div> <!-- end posts -->
       
-   <div id="footer">Duc Dang, 2010</div>
+
 
 </body>
 

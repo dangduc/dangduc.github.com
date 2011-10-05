@@ -1,11 +1,5 @@
 <?php get_template_part('tophead'); ?>
 
-<?php 
-$categories = get_the_category();
-foreach($categories as $cat): ?>
-<div class="category"><span><a href="<?php echo get_bloginfo('home').'?cat='.$cat->cat_ID;?>"><?php echo $cat->cat_name; ?></a></span></div>
-
-<?php endforeach; ?>
 
 <div class="posts">
    
@@ -17,9 +11,6 @@ foreach($categories as $cat): ?>
             <?php the_content(); ?>
             <div class="attributes">
                <?php the_time("l F j, Y") ?> <br />
-               <ul><li></li> <!-- li tags for xhtml 1.0 conformity -->
-                  <?php the_tags("<li>","</li><li>","</li>"); ?>
-               </ul>
             </div>  <!-- end attributes -->       
          </div> <!-- end entry -->
       </div> <!-- end post -->
@@ -34,7 +25,7 @@ foreach($categories as $cat): ?>
    <?php endif; ?>
 </div> <!-- end posts -->
 
-<div id="footer">Duc Dang, 2010</div>
+
 
 </body>
 
