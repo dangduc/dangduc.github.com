@@ -40,7 +40,7 @@ body{
 
 #content{
   margin:0 auto;
-  width:600px;
+  width:620px;
 }
 
 .columns:after {
@@ -59,7 +59,7 @@ body{
 .columns .last{ float:right; }
 
 .row1 .menu{ width:36px; margin-left:20px}
-.row1 .posts{ width:500px; }
+.row1 .posts{ width:520px; overflow:visible}
 
 a:link{ 
    text-decoration:none;
@@ -117,7 +117,7 @@ a:hover{
 }
 
 div.post{
-   padding:10px 15px 10px 15px;
+   padding:10px 0px 10px 0px;
    margin:0px 0px 10px 0px;
 }
 
@@ -146,7 +146,7 @@ div.post p{
    font-family:'Helvetica Neue',arial,serif;
    color:#657B83;
    font-size:18px;
-   margin:0px 0px 20px 0px;
+   margin:10px 0px 10px 0px;
 }
 
 div.post ul{
@@ -156,7 +156,7 @@ div.post ul{
 div.post ul li{
     font-family:'Rokkitt',arial,serif;
     color:#657B83;
-    font-size:15px; 
+    font-size:18px; 
 }
 
 div.attributes{
