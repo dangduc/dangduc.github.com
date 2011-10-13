@@ -11,7 +11,7 @@ title: DangDuc
          <h1><a href="{{ post.url }}" title="{{ post.title }}" >{{ post.title }}</a></h1>
          <div class="entry">
             <div class="attributes">
-               {{ post.date | date:"%A %B %d, %Y" }}<br />
+               {{ post.date | date:"%A %B %e, %Y" }}<br />
             </div>  <!-- end attributes -->    
             <p>{{ post.content | strip_html | truncatewords: 25 | remove:'...' }}<a href="{{post.url}}"> [...]</a></p>
             
