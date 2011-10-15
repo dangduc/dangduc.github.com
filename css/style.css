@@ -117,13 +117,16 @@ a:hover{
 }
 
 div.post{
+   font-family:'Helvetica Neue',arial,serif;
+   color:#657B83;
+   font-size:18px;
    padding:10px 0px 10px 0px;
    margin:0px 0px 10px 0px;
 }
 
 div.post h1{
    font-family:'Open Sans',arial,sans-serif;
-   color:#2AA198;
+   color:#268bd2;
    font-size:32px;
    font-weight:bold;
 }
@@ -151,20 +154,11 @@ div.post h2{
 }
 
 div.post p{
-   font-family:'Helvetica Neue',arial,serif;
-   color:#657B83;
-   font-size:18px;
    margin:10px 0px 10px 0px;
 }
 
 div.post ul{
    padding-left:50px; 
-}
-
-div.post ul li{
-    font-family:'Rokkitt',arial,serif;
-    color:#657B83;
-    font-size:18px; 
 }
 
 div.attributes{

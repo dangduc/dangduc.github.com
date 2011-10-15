@@ -21,7 +21,7 @@ In one go, Jekyll takes a set of files and generates every page your blog site w
 
 ## The Editor Sucks
 
-I still do not understand the default WordPress editor. In raw mode (not wysiwyg) it will try to **clean** up my html. It does this by deleting some elements I have written in the editor, after I save, and without telling me. This behavior is erratic and not well-documented. This destroys my workflow. It makes me irritated and angry. Blogging should be easy. Things should look the way they look. If funny things happen, an error should be thrown. The platform should not try to be sneaky. 
+I still do not understand the default WordPress editor. In raw mode (not wysiwyg) it will try to **clean** up my html. It does this by deleting some elements I have written in the editor, after I save, and without telling me. This behavior is erratic and not well-documented. This destroys my workflow. Blogging should be easy. Things should look the way they look. If funny things happen, an error should be thrown. The platform should not try to be sneaky. 
 
 The editor makes writing certain types of posts difficult. Such as when I want to post code snippets. Or when I want to break my post up with headers. For example, the post source in Wordpress look like this..
 
