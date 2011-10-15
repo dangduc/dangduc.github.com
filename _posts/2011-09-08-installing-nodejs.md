@@ -5,11 +5,11 @@ title: Installing Node.js
 
 I thought of playing around with Node.js. Node is a server implemented in C, that executes Javascript using Google’s V8 engine. Node handles many requests using only one thread, while popular servers like Apache allocate a thread for each request. Node is thought to be easy to scale, because so little resource is allocated for each request.
 
-The Node Approach
+## The Node Approach
 
 Node makes the assumption that IO takes the largest slice of request processing time. IO requests are performed asynchronously from the Node thread. The mechanic is similar to how AJAX is done. In Javascript, we pass a function to XMLHttpRequest that is called when data is returned to the browser. In the meantime, the browser will continue to execute Javascript. Similarly in Node, when IO is performed we pass a callback function which is executed when that IO returns data. Node continues to process other requests while waiting for IO to finish.
 
-Installing Node
+## Installing Node
 
 After a lot of fumbling, I managed to install node.js + npm. If you are new and simply want to get it up and running, DO NOT use the git sources. The latest sources are unstable. Also, I found out some important node modules are unsupported on the latest node.js, such as express.
 

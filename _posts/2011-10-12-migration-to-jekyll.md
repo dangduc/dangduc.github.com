@@ -39,7 +39,7 @@ In Markdown, the source looks like this..
 I still do not understand the default..
 {% endhighlight %}
 
-In WordPress, I had to remember to keep track of xml tags. 
+In WordPress, I have to remember to keep track of xml tags. 
 
 Jekyll is more flexible. It allows me to use whatever format I want: Markdown, Textile, or html. For example, I write most posts in Markdown, but the about page is written in html. Markdown is great when all you want is to write an entry, because Markdown's syntax is limited in such a way as to encourage simple content: paragraphs, lists, headers, emphasis, italics, etc. And html is great when you want something more complex, like the table I use in the **about me** page.
 

@@ -1,32 +1,14 @@
 @font-face{
-  font-family: 'Geo';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Geo'), local('Geo-Regular'), url('http://themes.googleusercontent.com/static/fonts/geo/v2/av0TkpgOwGmqABT09bQMSA.woff') format('woff');
-}
-@font-face{
   font-family: 'Changa One';
   font-style: normal;
   font-weight: normal;
   src: local('ChangaOne-Regular'), url('http://themes.googleusercontent.com/static/fonts/changaone/v1/QmTOgNNWM9ly3K3B2X29HBsxEYwM7FgeyaSgU71cLG0.woff') format('woff');
 }
 @font-face {
-  font-family: 'Rokkitt';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Rokkitt'), url('http://themes.googleusercontent.com/static/fonts/rokkitt/v3/4Z-2qkHrI1biwaOxvW6ZTA.woff') format('woff');
-}
-@font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 800;
   src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url('http://themes.googleusercontent.com/static/fonts/opensans/v4/EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff') format('woff');
-}
-@font-face {
-  font-family: 'Droid Sans';
-  font-style: normal;
-  font-weight: bold;
-  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url('http://themes.googleusercontent.com/static/fonts/droidsans/v1/EFpQQyG9GqCrobXxL-KRMQFhaRv2pGgT5Kf0An0s4MM.woff') format('woff');
 }
 
 *{
@@ -117,7 +99,7 @@ a:hover{
 }
 
 div.post{
-   font-family:'Helvetica Neue',arial,serif;
+   font-family:'Helvetica Neue', helvetica, arial,serif;
    color:#657B83;
    font-size:18px;
    padding:10px 0px 10px 0px;
