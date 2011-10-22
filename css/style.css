@@ -17,7 +17,7 @@
 }
 
 body{
-   background-color:#FDF6E3;
+   background-color:#fdf6e3;
 }
 
 #content{
@@ -58,7 +58,6 @@ a:hover{
 }
 
 .menu{
-   background-color:#586e75;
    text-align:center;
 }
 
@@ -99,7 +98,7 @@ a:hover{
 }
 
 div.post{
-   font-family:'Helvetica Neue', helvetica, arial,serif;
+   font-family:helvetica, arial,serif;
    color:#657B83;
    font-size:18px;
    padding:10px 0px 10px 0px;
@@ -129,9 +128,14 @@ div.post h1 a:hover{
 
 
 div.post h2{
-   font-family:'Helvetica Neue',arial,serif;
    color:#657B83;
    font-size:22px;
+   margin:15px 0px 0px 0px;
+}
+
+div.post h3{
+   color:#657B83;
+   font-size:18px;
    margin:15px 0px 0px 0px;
 }
 
@@ -141,6 +145,10 @@ div.post p{
 
 div.post ul{
    padding-left:50px; 
+}
+
+div.post ol{
+   padding-left:50px;
 }
 
 div.attributes{
