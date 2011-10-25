@@ -13,9 +13,9 @@ I hummed Avant's *4 Minutes* during work. I tend to like songs that tell a story
 
 >Close your suitcase let me think straight
 
-Avant searches his conscious for *"what could be the reason"* for his lover's escape. He thinks it's *"[be]cause of the prime relationships [he's] had off in the streets"*. Yea, probably.
+Avant searches his conscious for "what could be the reason" for his lover's escape. He thinks it's "cause of the prime relationships [he's] had off in the streets." Yea, probably.
 
-So Avant confronts his longtime girlfriend/wife, who is pretty tired of his cheating ways. He convinces her to give him **four minutes** of her time, before she completely moves out of his life. The thing is, Avant doesn't use the four minutes he's been given very efficient. Broken down into lines of verse, he spends a sixth of the time actually saying something convincing to the poor girl:
+So Avant confronts his longtime girlfriend/wife, who is pretty tired of his cheating ways. He convinces her to give him **four minutes** of her time, before she completely moves out of his life. The thing is, Avant doesn't use the four minutes he's been given very efficiently. Broken down into lines of verse, he spends a sixth of the time actually saying something convincing to the poor girl:
 
 >You're my everything lady
 
@@ -29,7 +29,7 @@ So Avant confronts his longtime girlfriend/wife, who is pretty tired of his chea
 
 >Cause I'm still in love with you
 
-The rest of the time, he spatters on about how he *"only got 4 minutes"*. In the middle of this, he starts to talk to himself *"this is your conscience speaking and you need to get your girl back."* So we are not surprised when his four minutes fails to convince his lover to stay.
+The rest of the time, he spatters on about how he "only got 4 minutes." In the middle of this, he starts to talk to himself: "this is your conscience speaking and you need to get your girl back." So we are not surprised when his four minutes fail to convince his lover to stay.
 
 >Only got 4 minutes to tell you everything I love about you
 
