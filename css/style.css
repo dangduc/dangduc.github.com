@@ -151,6 +151,13 @@ div.post ol{
    padding-left:50px;
 }
 
+div.post blockquote p{
+  font-style:italic;
+  margin:0px 0px 0px 0px;
+  padding: 0 0 0 5px;
+  background: #eee8d5; 
+}
+
 div.attributes{
    text-align:left;
    padding:0px 0px 15px 15px;
