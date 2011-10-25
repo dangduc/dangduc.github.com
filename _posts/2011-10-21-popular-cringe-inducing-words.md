@@ -7,7 +7,11 @@ I have been thinking about words that make me cringe when I read them:
 
 ### Fun-sized
 
-Self-description of women online. I think the term refers to their petiteness and height deficiency  -*"I'm not short, I'm fun-sized"*. First, I imagine these women are the size of the toys in *The Indian in the Cupboard* (which by the way is a most awkward-sounding title). Secondly, I think such a woman is misinformed about the term at best, and unintelligent at worse. Thirdly, it conveys a sort of immature sexuality. What I'm saying is the term comes with a lot of baggage. It is simple enough to state that oneself is five foot zero inches. These days, I cringe a bit every time I buy a small package of candy at the movies. I think an angel loses a wing each time this word is read.
+Self-description of women online. I think the term refers to their petiteness and height deficiency  -*"I'm not short, I'm fun-sized"*. First, I imagine these women are the size of the toys in *The Indian in the Cupboard* (which by the way is a most awkward-sounding title). Secondly, I think such women are misinformed about the term at best, and unintelligent at worse. Thirdly, it conveys a sort of immature sexuality. 
+
+Miniature candy bars? We unwrap and quickly consume them. Many can be eaten in a night. They require low commitment, because they can be finished very quickly unlike full-sized ones.
+
+What I'm saying is the term comes with a lot of baggage. It is simple enough to state that oneself is five foot zero inches. These days, I cringe a bit every time I buy a small package of candy at the movies.
 
 ### Epic
 
@@ -24,3 +28,5 @@ I saw this cropping up a lot three years ago. What does it mean when a job descr
 ### Software Ninja
 
 Programmers are not known for their physical prowess nor are they any more likely to be victorious at physical combat than the average white collar worker.
+
+I think an angel loses a wing every time one of these words are read.
