@@ -1,0 +1,44 @@
+---
+layout: post
+title: He Needs More Than 4 Minutes
+---
+
+I hummed Avant's *4 Minutes* during work. I tend to like songs that tell a story. In this one, Avant rushes home after hearing rumours that his lover is leaving their house, 
+
+>I heard you were leavin' town and I thought I'd be the one to know first
+
+>..
+
+>I come into the house to try to work it out and all you're doing is packing
+
+>Close your suitcase let me think straight
+
+Avant searches his conscious for *"what could be the reason"* for his lover's escape. He thinks it's *"[be]cause of the prime relationships [he's] had off in the streets"*. Yea, probably.
+
+So Avant confronts his longtime girlfriend/wife, who is pretty tired of his cheating ways. He convinces her to give him **four minutes** of her time, before she completely moves out of his life. The thing is, Avant doesn't use the four minutes he's been given very efficient. Broken down into lines of verse, he spends a sixth of the time actually saying something convincing to the poor girl:
+
+>You're my everything lady
+
+>The reason I smile and the reason I talk baby
+
+>The reason I breathe, the only one for me, yea
+
+>...
+
+>If you left me my life wouldn't exist
+
+>Cause I'm still in love with you
+
+The rest of the time, he spatters on about how he *"only got 4 minutes"*. In the middle of this, he starts to talk to himself *"this is your conscience speaking and you need to get your girl back."* So we are not surprised when his four minutes fails to convince his lover to stay.
+
+>Only got 4 minutes to tell you everything I love about you
+
+>4 minutes to say I need you, I can't live without you
+
+>I'm out of time gotta say what's on my mind
+
+>Just to keep you in my life
+
+>Aw, damn I'm outta time
+
+Obviously, he should have asked for more minutes.
