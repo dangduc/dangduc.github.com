@@ -43,11 +43,15 @@ That can be a problem. It begs the question, do you like her because of her pers
 
 The word **it** is also the stupidest word to appear in music lyrics. I mean, *it* has only two letters. *It* is the name of that clown in Stephen King's famous brick..er..I mean book. And don't forget Cousin It of the Adams Family. Neither poetic in writing nor soothing to the ears, *It* is an ugly word and should not be the focal point for any song.
 
-For the last two weeks, I listened to the radio while driving around town. Everything on the radio hurts my ears. I liked Ne-Yo's **Give me Everything** until they started to give the credits to Pitbull and play the song ninety times a day across all the radio stations. And how come every other song is a dance club mix? Rihanna's **We Found Love**, and Usher's (**No**, not David Guetta) **Without You**, and **Give me Everything** are dance club songs. I imagine lasers cutting across dimly lit, smokey neon glow dance floors from the 90s. Asian kids breakdancing.
+For the last two weeks, I listened to the radio while driving around town. Everything on the radio hurts my ears. I liked Ne-Yo's **Give me Everything** until they started to give the credits to Pitbull and play the song ninety times a day across all the radio stations. 
+
+And how come every other song is a dance club mix? Rihanna's **We Found Love**, and Usher's (**No**, not David Guetta) **Without You**, and **Give me Everything** are dance club songs. I imagine lasers cutting across dimly lit, smokey neon glow dance floors from the 90s. Asian kids breakdancing.
 
 Maybe I can't appreciate music designed for teenagers anymore. 
 
-Fed up with the radio, I burned a data cd-rom with mp3s of oldies such as Usher's **Slow Jam**, Backstreet Boy's **Back to Your Heart**, and Owl City's **If my Heart was a House**. See you some other time **the present**, I'm going to hang out with **the past** for a while.
+Fed up with the radio, I burned a data cd-rom with mp3s of oldies such as Usher's **Slow Jam**, Backstreet Boy's **Back to Your Heart**, and Owl City's **If my Heart was a House**. 
+
+See you some other time **the present**, I'm going to hang out with **the past** for a while.
 
 But you know what, as far as I'm concerned, *A-dell* still refers to a crappy brand of laptops *\*waves fist in the air while supporting weak back with a cane*\*
 
