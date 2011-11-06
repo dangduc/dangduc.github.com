@@ -21,7 +21,7 @@ It's annoying that Adele is in the top music charts on SF Bay Area radio station
 
 >That for me it isn't over.
 
-The mating call of Ugly American's man-birds are more pleasant than Adele's voice. Her *sound* is soulful and deep, like a cross between Sade and TLC**\*** with a dash of European Caucasian flavor.
+The mating call of Ugly American's man-birds is more pleasant than Adele's shrill voice. Her *sound* is soulful and deep, like a cross between Sade and TLC**\*** with a dash of European Caucasian flavor.
 
 Jason Derulo's **It Girl**. What can I say about this one? To be clear, an **it girl** is a very attractive woman. She's the whole package: charming demeanor, attractive charisma, body of a goddess. There's two catches. First, the label is transient. No woman who is an *it girl* ever stays one for long. The title moves onto to another, usually younger woman. Second, many people must acknowledge a woman as an *it girl*, for her to be one. 
 
