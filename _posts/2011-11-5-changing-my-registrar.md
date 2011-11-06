@@ -26,7 +26,7 @@ When a domain is registered, anyone can do a *whois* search for the name, physic
 
 *Think about it this way*: Without private registration, any girl in a miniskirt from the club is just keystrokes from your phone number. Now once she has your contact information, there's no way she's giving you her own number, because she already has yours. There's nothing left for you to exchange. *Totally plausible*.
 
-Anyway, registrants can hide behind a proxy organization using private registration. So a whois search shows the proxy organization's information instead of the true registrant's.
+Anyway, registrants can hide behind a proxy organization using private registration. So a whois search shows the proxy's information instead of the true registrant's.
 
 ### Breakdown of costs with private registration
 
@@ -43,6 +43,6 @@ Godaddy's domain management web interface is like that brother you never want to
 
 NFS's management web interface is simple. Once you login, you are presented with tabs. *Beautiful* tabs containing everything you can do like setting DNS records, tearing down hosted sites, and registering new domains. Unlike that other site, you don't see company offers plastered anywhere. 
 
-By the way, I don't get any benefits for writing this; NFS does not have an affiliate program like many popular sites \*cough\* Godaddy, Dreamhost \*cough\*.
+By the way, I don't get any benefits from NFS or anyone else for writing this; NFS does not have an affiliate program like many popular sites \*cough\* Godaddy, Dreamhost \*cough\*.
 
-Changing registrars is a bit more complicated for me, because I had private registration. I first had to remove this feature, exposing my true whereabouts, before I was allowed to change registrars. I had to to this according to both NFS and Godaddy. I'm not sure if this is a necessary thing when changing registrars, but it defeats the purpose of private registration.
+Changing registrars is a bit more complicated for me, because I had private registration. I first needed to remove this feature, exposing my true whereabouts, before I was allowed to change registrars. I had to to this according to both NFS and Godaddy. I'm not sure if this is a necessary thing when changing registrars, but it defeats the purpose of private registration.
