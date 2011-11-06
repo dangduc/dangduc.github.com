@@ -3,7 +3,11 @@ layout: post
 title: Changing my Registrar
 ---
 
-Domain Registrars are where the DNS main record is stored. This record points to the Domain Nameserver that handles routing. The registrar is the goto guy for determining what nameserver a domain uses.
+I decided to change my registrar and DNS service. Here's why...
+
+## Background
+
+First, some 'domain' terms. Domain Registrars are where the DNS main record is stored. This record points to the Domain Nameserver that handles routing. The registrar is the goto guy for determining what nameserver a domain uses.
 
 DNS handles A and CNAME thingies. For example, my DNS managers has an A record for *dangduc.com* pointing to *dangduc.github.com*, and a CNAME record for subdomain *www* pointing to the same. I could've easily set a CNAME for the subdomain *blog* instead of *www*:
 
@@ -11,9 +15,9 @@ DNS handles A and CNAME thingies. For example, my DNS managers has an A record f
 
 DNS also stores something call a mail exchange record (MX) that tells mail where to route. My MX records point to Gmail's servers.
 
-I decided to change my registrar and DNS service. Here's why...
+## Godaddy versus NearlyFreeSpeech
 
-First, my domain is up for renewal and I am unhappy with my current registar, Godaddy, for reasons that will be explained later. I decided on NearlyFreeSpeech, because of all the registrars I looked at, NFS was the only registrar that presented their services in a plain matter-of-fact way. And it appears cheap.
+My domain is up for renewal and I am unhappy with my current registar, Godaddy, for reasons that will be explained later. I decided on NearlyFreeSpeech, because of all the registrars I looked at, NFS was the only registrar that presented their services in a plain matter-of-fact way. And it appears cheap.
 
 ### Breakdown of costs between registrars and DNS
 
@@ -24,7 +28,7 @@ Godaddy costs $1.78 more. Also, after I changed my DNS from Godaddy to NearlyFre
 
 When a domain is registered, anyone can do a *whois* search for the name, physical address, and telephone number of the registrant. I don't know about you, but I like to keep my private information cards close to my chest. 
 
-*Think about it this way*: Without private registration, any girl in a miniskirt from the club is just keystrokes from your phone number. Now once she has your contact information, there's no way she's giving you her own number, because she already has yours. There's nothing left for you to exchange. *Totally plausible*.
+*Think about it this way*: Without private registration, any girl in a miniskirt from the club is just keystrokes from your phone number. Now once she has your contact information, there's no way she's giving you her own number, because she already has yours. There's nothing left for you to exchange. *Totally plausible*.**\***
 
 Anyway, registrants can hide behind a proxy organization using private registration. So a whois search shows the proxy's information instead of the true registrant's.
 
@@ -46,3 +50,5 @@ NFS's management web interface is simple. Once you login, you are presented with
 By the way, I don't get any benefits from NFS or anyone else for writing this; NFS does not have an affiliate program like many popular sites \*cough\* Godaddy, Dreamhost \*cough\*.
 
 Changing registrars is a bit more complicated for me, because I had private registration. I first needed to remove this feature, exposing my true whereabouts, before I was allowed to change registrars. I had to to this according to both NFS and Godaddy. I'm not sure if this is a necessary thing when changing registrars, but it defeats the purpose of private registration.
+
+**\***the trick here is to give her a false domain name when you introduce yourself.
