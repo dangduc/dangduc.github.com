@@ -20,7 +20,7 @@ First, my domain is up for renewal and I am unhappy with my current registar, Go
 - Godaddy: .com registration $12 + included DNS service = $12 total
 - NFS: registration $9 + DNS $1.22 = $10.22
 
-Godaddy costs $1.78 more. Also, after I changed my DNS from Godaddy to NearlyFreeSpeech, requests for pages are noticeably faster. Why, cheaper and faster? That breaks the principal of engineering trade-offs. NFS wins hands-down in this round.
+Godaddy costs $1.78 more. Also, after I changed my DNS from Godaddy to NearlyFreeSpeech, requests for pages are noticeably faster. Why, cheaper **and** faster? That breaks the principal of engineering trade-off.
 
 When a domain is registered, anyone can do a *whois* search for the name, physical address, and telephone number of the registrant. I don't know about you, but I like to keep my private information cards close to my chest. 
 
