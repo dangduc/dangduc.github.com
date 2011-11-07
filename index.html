@@ -6,16 +6,16 @@ title: DangDuc
 
 <div class="column posts">
    
-      {% for post in site.posts %}
+      {% for post in site.posts %} 
       <div class="post">
-         <h1><a href="{{ post.url }}" title="{{ post.title }}" >{{ post.title }}</a></h1>
+          <div class="date">
+             <span class="month">{{ post.date | date:"%B" }}</span>
+             <span class="day">{{ post.date | date:"%e" }}</span>
+             <span class="week-year">{{ post.date | date:"%a %Y" }}</span>
+          </div>  
          <div class="entry">
-            <div class="attributes">
-               {{ post.date | date:"%A %B %e, %Y" }}<br />
-            </div>  <!-- end attributes -->    
+            <h1><a href="{{ post.url }}" title="{{ post.title }}" >{{ post.title }}</a></h1>
             <p>{{ post.content | strip_html | truncatewords: 25 | remove:'...' }}<a href="{{post.url}}"> [...]</a></p>
-            
-
          </div> <!-- end entry -->
       </div> <!-- end post -->
       {% endfor %}

@@ -6,14 +6,12 @@ layout: default
 
   <div class="post">
      <h1><a href="{{ post.url }}" title="{{ post.title }}" >{{ post.title }}</a></h1>
-     <div class="entry">
-        <div class="attributes">
-           {{ post.date | date:"%A %B %e, %Y" }}<br />
-        </div>  <!-- end attributes -->    
+      <div class="attributes">
+         {{ post.date | date:"%A %B %e, %Y" }}<br />
+      </div>  <!-- end attributes -->    
+      
+      {{ content }}
         
-        {{ content }}
-        
-     </div> <!-- end entry -->
   </div> <!-- end post -->
   <div class="post" id="related">
     <p>
