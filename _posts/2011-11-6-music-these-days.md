@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Music These Days
+published: false
 ---
 
 I think I'm getting old. Today, my younger sister corrected me on the pronounciation of Adele's name. I called her *A-da-lay*, instead of *A-dell*. 
