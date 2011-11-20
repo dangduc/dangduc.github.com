@@ -7,7 +7,7 @@ I have been thinking about words that make me cringe when I read them:
 
 ### Fun-sized
 
-Self-description of women online. I think the term refers to their petiteness and height deficiency  -*"I'm not short, I'm fun-sized"*. First, I imagine these women are the size of the toys in *The Indian in the Cupboard* (which by the way is a most awkward-sounding title). Secondly, I think such women are misinformed about the term at best, and unintelligent at worse. Thirdly, it conveys a sort of immature sexuality. 
+Self-description of women online. I think the term refers to their petiteness and height deficiency  -*"I'm not short, I'm fun-sized"*. First, I imagine these women are the size of the toys in *The Indian in the Cupboard* (which by the way is a most awkward-sounding title). Secondly, I think such women are misinformed about the term at best, and unintelligent at worst. Thirdly, it conveys a sort of immature sexuality. 
 
 Miniature candy bars? We unwrap and quickly consume them. Many can be eaten in a night. They require low commitment, because they can be finished very quickly unlike full-sized ones.
 

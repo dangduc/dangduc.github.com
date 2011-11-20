@@ -41,7 +41,7 @@ Now look at that! NFS has an even better deal if private is how you roll.
 
 ## Conclusion
 
-The pricing is compelling reason to switch registrars and DNS, but there are things about my previous registrar, Godaddy, that really boils my plate and tips the pot.
+The pricing is reason enough to switch registrars and DNS, but there are things about my previous registrar, Godaddy, that really boils my plate and tips the pot.
 
 Godaddy's domain management web interface is like that brother you never want to visit, because his house has so much trash all over the hallways, it takes 10 minutes to get from the front door to the living room. With Godaddy, you need to wad pass all their messy attempts to milk you of your money: "Buy two domains, get one free!" Then you need to click your way through nine tiny submenus and dropboxes, so you can be presented with their unintuitive management tools. It's a sad day when I need to change something on my domain.
 
