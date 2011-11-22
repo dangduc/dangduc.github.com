@@ -107,7 +107,7 @@ a:hover {
 
 div.post {
   font-family: helvetica, arial,serif;
-  color: #657B83;
+  color: black;
   font-size: 18px;
   padding: 10px 0 10px 0;
   margin: 0 0 10px 0;
@@ -115,7 +115,7 @@ div.post {
 
 div.post h1 {
   font-family: 'Open Sans',arial,sans-serif;
-  color: #268bd2;
+  color: black;
   font-size: 32px;
   font-weight: bold;
 }
@@ -126,12 +126,12 @@ div.entry h1 {
 
 div.post h1 a:link {
   text-decoration: none;
-  color: #586e75;
+  color: black;
 }
 
 div.post h1 a:visited { 
   text-decoration: none;
-  color: #586e75;
+  color: black;
 }
 
 div.post h1 a:hover { 
@@ -139,13 +139,13 @@ div.post h1 a:hover {
 }
 
 div.post h2 {
-  color: #657B83;
+  color: black;
   font-size: 22px;
   margin: 15px 0 0 0;
 }
 
 div.post h3 {
-  color: #657B83;
+  color: black;
   font-size: 18px;
   margin: 15px 0 0 0;
 }
@@ -177,7 +177,6 @@ div.attributes {
   text-align: left;
   padding: 0 0 15px 15px;
   font-family: arial,sans-serif;
-  color: #93A1A1;
   font-size: 16px;
 }
 
