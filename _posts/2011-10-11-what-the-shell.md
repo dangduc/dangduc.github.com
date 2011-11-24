@@ -5,6 +5,8 @@ title: What the Shell!?
 
 The following are scenarios that Unix command line tools can solve.
 
+## grep
+
 Say you are developing a computer game, but you don’t know what to work on? Use grep.
 
 {% highlight bash %}
@@ -21,6 +23,8 @@ example output:
 ./View.java: //TODO add util align
 {% endhighlight %}
 
+## ps
+
 Have a program/process that you cannot kill by using the GUI (ie clicking ‘close’ with mouse)? pipe ps‘s plaintext output to grep. Give the name of the process as a string argument. In the following example, I pass 'stupid process'.
 
 {% highlight bash %}
@@ -32,6 +36,8 @@ example output:
 {% highlight bash %}
 duc 15241 [...] stupid process
 {% endhighlight %}
+
+## kill
 
 Then use the PID in the second column..
 

@@ -17,7 +17,7 @@
 }
 
 body {
-  background-color: #fdf6e3;
+  background-color: #EDEDED;
 }
 
 #content {
@@ -107,7 +107,7 @@ a:hover {
 
 div.post {
   font-family: helvetica, arial,serif;
-  color: black;
+  color: #222222;
   font-size: 18px;
   padding: 10px 0 10px 0;
   margin: 0 0 10px 0;
@@ -115,7 +115,7 @@ div.post {
 
 div.post h1 {
   font-family: 'Open Sans',arial,sans-serif;
-  color: black;
+  color: #50473E;
   font-size: 32px;
   font-weight: bold;
 }
@@ -126,12 +126,12 @@ div.entry h1 {
 
 div.post h1 a:link {
   text-decoration: none;
-  color: black;
+  color: #50473E;
 }
 
 div.post h1 a:visited { 
   text-decoration: none;
-  color: black;
+  color: #50473E;
 }
 
 div.post h1 a:hover { 
@@ -139,13 +139,13 @@ div.post h1 a:hover {
 }
 
 div.post h2 {
-  color: black;
+  color: #50473E;
   font-size: 22px;
   margin: 15px 0 0 0;
 }
 
 div.post h3 {
-  color: black;
+  color: #50473E;
   font-size: 18px;
   margin: 15px 0 0 0;
 }
@@ -200,7 +200,7 @@ div.date .day, .date .month {
 }
 
 div.date .month {
-  background-color: #eee8d5;
+  background-color: #E3E3E3;
   font-size: 14px;
   border-radius: 7px 7px 0 0;
   margin-bottom:5px;
