@@ -47,7 +47,11 @@ Godaddy's domain management web interface is like that brother you never want to
 
 NFS's management web interface is simple. Once you login, you are presented with tabs. **Beautiful** tabs containing everything you can do like setting DNS records, tearing down hosted sites, and registering new domains. Unlike that other site, you don't see company offers plastered anywhere. 
 
+## Disclaimer
+
 By the way, I don't get any benefits from NFS or anyone else for writing this; NFS does not have an affiliate program like many popular sites \*cough\* Godaddy, Dreamhost \*cough\*.
+
+## Caveat
 
 Changing registrars is a bit more complicated for me, because I had private registration. I first needed to remove this feature, exposing my true whereabouts, before I was allowed to move registrars. I had to according to both NFS and Godaddy. I'm not sure if this is a necessary thing when changing registrars, but it defeats the purpose of private registration.
 

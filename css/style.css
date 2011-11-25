@@ -118,6 +118,7 @@ div.post h1 {
   color: #50473E;
   font-size: 32px;
   font-weight: bold;
+  text-shadow: #F8DEBF 1px 1px 2px;
 }
 
 div.entry h1 {
@@ -140,14 +141,16 @@ div.post h1 a:hover {
 
 div.post h2 {
   color: #50473E;
-  font-size: 22px;
+  font-size: 24px;
   margin: 15px 0 0 0;
+  text-shadow: #F8DEBF 1px 1px 2px;
 }
 
 div.post h3 {
   color: #50473E;
   font-size: 18px;
   margin: 15px 0 0 0;
+  text-shadow: #F8DEBF 1px 1px 2px;
 }
 
 div.post p {
