@@ -9,7 +9,9 @@ I decided to change my registrar and DNS service. Here's why...
 
 First, some *domain* terms. Domain Registrars are where the DNS main record is stored. This record points to the Domain Nameserver that handles routing. The registrar is the goto guy for determining what nameserver a domain uses.
 
-DNS handles A and CNAME thingies. For example, my DNS managers has an A record for *dangduc.com* pointing to *dangduc.github.com*, and a CNAME record for subdomain *www* pointing to the same. I could've easily set a CNAME for the subdomain *blog* instead of *www*:
+DNS handles A and CNAME thingies. For example, my DNS managers has an A record for *dangduc.com* pointing to *dangduc.github.com*, and a CNAME record for subdomain *www* pointing to the same. I could've easily set a CNAME for the subdomain *blog* instead of *www*.
+
+### DangDuc Domain Name Mapping
 
 <table>
   <tr>
@@ -37,8 +39,26 @@ My domain is up for renewal and I am unhappy with my current registar, Godaddy, 
 
 ### Breakdown of costs between registrars and DNS
 
-- Godaddy: .com registration $12 + included DNS service = $12 total
-- NFS: registration $9 + DNS $1.22 = $10.22
+<table>
+  <tr>
+    <th>Registrar</th>
+    <th>Registration</th>
+    <th>DNS</th>
+    <th>Total Cost</th>
+  </tr>
+  <tr>
+    <td>Godaddy</td>
+    <td>12</td>
+    <td>included</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>NFS</td>
+    <td>9</td>
+    <td>1.22</td>
+    <td>10.22</td>
+  </tr>  
+</table>
 
 Godaddy costs $1.78 more. Also, after I changed my DNS from Godaddy to NearlyFreeSpeech, requests for pages are noticeably faster. Why, cheaper **and** faster? That breaks the principal of engineering trade-off.
 
@@ -50,8 +70,30 @@ Anyway, registrants can hide behind a proxy organization using private registrat
 
 ### Breakdown of costs with private registration
 
-- Godaddy: .com registration $12 + free DNS + private registration $5 = $17 total
-- NFS: registration $9 + DNS $1.22 + private $3.65 = $13.87 total
+<table>
+  <tr>
+    <th>Registrar</th>
+    <th>Registration</th>
+    <th>DNS</th>
+    <th>Private Reg</th>
+    <th>Total Cost</th>
+  </tr>
+  <tr>
+    <td>Godaddy</td>
+    <td>12</td>
+    <td>included</td>
+    <td>5</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>NFS</td>
+    <td>9</td>
+    <td>1.22</td>
+    <td>3.65</td>
+    <td>13.87</td>
+  </tr>  
+</table>
+
 
 Now look at that! NFS has an even better deal if private is how you roll.
 

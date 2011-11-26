@@ -165,11 +165,11 @@ div.post ol {
   padding-left: 50px;
 }
 
-div.post blockquote  p{
-  font-style: italic;
+div.post blockquote  p {
   padding: 0 0 0 5px;
-  background: #eee8d5; 
-  margin: 0 0 0 0;
+  margin: 0 0 0 10px;
+  border-left: solid 1px #888888;
+  font-size: 16px;
 }
 
 div.entry {
@@ -233,7 +233,7 @@ table tbody tr:hover td {
 }
 
 table td {
-  text-align: left;
+  text-align: center;
 	vertical-align: top;
   padding: 3px 10px 3px 10px;
   font-size: 16px;
