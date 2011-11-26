@@ -220,19 +220,6 @@ div.date .week-year {
 
 }
 
-table.unstyle {
-  border: none;
-  
-}
-
-table.unstyle tbody tr:hover td {
-  background: none;
-}
-
-table.unstyle td {
-  text-align: left;
-}
-
 table {
   margin: 20px 0 20px 10px;
   border-color: #888888;
@@ -261,7 +248,18 @@ table th {
   text-shadow: #DDDDDD 1px 1px 2px;
 }
 
+table.unstyle {
+  border: none;
+  
+}
 
+table.unstyle tbody tr:hover td {
+  background: none;
+}
+
+table.unstyle td {
+  text-align: left;
+}
 
 .icon a {
   width: 29px;
