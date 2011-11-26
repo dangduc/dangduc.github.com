@@ -9,11 +9,11 @@ If remembering names is trivial, there would not be over two million results on 
 
 At some point, I decided things could be better. I started doing research into memory techniques. I read Joshua Foer’s Moonwalking with Einstein. I looked into the Memory Palace as a way of storing information. I approached every new person as an opportunity to practice.
 
-I got better. I can remember most people’s names. Still. Remembering names is hard. There are important things I learned:
+I got better. I can remember most people’s names. Still, remembering names is hard. There are important things I learned:
 
 Names are a sort of vocabulary for people. When you are equipped with a large vocabulary to describe the world around you, you see it with more fidelity than a person who knows less terms.
 
-An example is the different shades of pink. Coral Pink (#F88379) is entirely different than Magenta (#FF00FF) or Rose (#FF007F). And Amaranth (#E52B50) is almost not pink at all. Having the vocabulary to describe the different shades of pink allows you to perceive and remember the world with higher resolution than simply having one term for “Pink”.
+Consider the different shades of pink. Coral Pink (#F88379) is entirely different than Magenta (#FF00FF) or Rose (#FF007F). And Amaranth (#E52B50) is almost not pink at all. Having the vocabulary to describe the different shades of pink allows you to perceive and remember the world with higher resolution than simply having one umbrella term for “Pink”.
 
 Similarly, remembering a person’s name gives you the same cool abilities. Suddenly people are not only “people”, they are Anna the programmer, or Ben from Wisconsin. With a larger vocabulary of names, people are individuals with their own thoughts and feelings. If you were like me, you probably already knew this, because you have close friends and close family. But now, like some kind of mental superman, you can juggle many more individuals. You can differentiate between them all.
 
