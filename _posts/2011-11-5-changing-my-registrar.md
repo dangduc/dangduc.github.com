@@ -11,9 +11,9 @@ First, some *domain* terms. Domain Registrars are where the DNS main record is s
 
 DNS handles A and CNAME thingies. For example, my DNS managers has an A record for *dangduc.com* pointing to *dangduc.github.com*, and a CNAME record for subdomain *www* pointing to the same. I could've easily set a CNAME for the subdomain *blog* instead of *www*.
 
-### DangDuc Domain Name Mapping
 
 <table>
+  <caption>DangDuc Domain Name Mapping</caption>
   <tr>
     <th>Record Type</th>
     <th>name</th>
@@ -37,9 +37,8 @@ DNS also stores something call a mail exchange record (MX) that tells mail where
 
 My domain is up for renewal and I am unhappy with my current registar, Godaddy, for reasons that will be explained later. I decided on NearlyFreeSpeech, because of all the registrars I looked at, NFS was the only registrar that presented their services in a plain matter-of-fact way. And it appears cheap.
 
-### Breakdown of costs between registrars and DNS
-
 <table>
+  <caption>Breakdown of Costs Between Registrars with DNS</caption>
   <tr>
     <th>Registrar</th>
     <th>Registration</th>
@@ -68,9 +67,8 @@ When a domain is registered, anyone can do a *whois* search for the name, physic
 
 Anyway, registrants can hide behind a proxy organization using private registration. So a *whois* search shows the proxy's information instead of the true registrant's.
 
-### Breakdown of costs with private registration
-
 <table>
+  <caption>Costs with Private Registration</caption>
   <tr>
     <th>Registrar</th>
     <th>Registration</th>

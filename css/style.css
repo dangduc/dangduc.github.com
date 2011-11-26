@@ -245,6 +245,15 @@ table th {
   text-shadow: #DDDDDD 1px 1px 2px;
 }
 
+table caption {
+  text-align: center;
+  color: #50473E;
+  font-size: 20px;
+  margin: 15px 0 0 0;
+  text-shadow: #F8DEBF 1px 1px 2px;
+  font-weight: bold;
+}
+
 table.unstyle {
   border: none;
   
