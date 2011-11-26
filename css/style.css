@@ -217,6 +217,20 @@ div.date .day {
 
 div.date .week-year {
   font-size: 14px;
+
+}
+
+table.unstyle {
+  border: none;
+  
+}
+
+table.unstyle tbody tr:hover td {
+  background: none;
+}
+
+table.unstyle td {
+  text-align: left;
 }
 
 table {

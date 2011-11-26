@@ -2,10 +2,11 @@
 layout: page
 title: About me
 ---
-<table>
+
+<table class="unstyle">
 <tr>
 <td>
-<a href="/images/profile.png"><img class="alignleft size-full wp-image-14" title="ProfilePicture" src="/images/profile.png" alt="" width="179" height="192" /></a>
+<a href="/images/profile.png"><img title="Profile" src="/images/profile.png" alt="profile" width="179" height="192" /></a>
 </td>
 <td>
 <p>
