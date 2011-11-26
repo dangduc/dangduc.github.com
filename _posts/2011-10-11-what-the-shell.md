@@ -25,7 +25,7 @@ example output:
 
 ## ps
 
-Have a program/process that you cannot kill by using the GUI (ie clicking ‘close’ with mouse)? pipe ps‘s plaintext output to grep. Give the name of the process as a string argument. In the following example, I pass 'stupid process'.
+Have a program/process that you cannot kill by using the GUI (ie clicking ‘close’ with mouse)? Pipe ps‘s plaintext output to grep. Give the name of the process as a string argument. In the following example, I pass 'stupid process'.
 
 {% highlight bash %}
 duc@com:~$ ps aux | grep 'stupid process'

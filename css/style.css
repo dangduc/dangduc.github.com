@@ -222,9 +222,6 @@ div.date .week-year {
 
 table {
   margin: 20px 0 20px 10px;
-  border-color: #888888;
-  border-width: 1px;
-  border-style: solid;
   border-collapse: collapse;
   width: 100%;
 }
