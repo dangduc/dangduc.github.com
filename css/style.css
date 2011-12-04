@@ -9,7 +9,7 @@ body {
 
 #content {
   margin: 0 auto;
-  width: 700px;
+  width: 600px;
 }
 
 .columns:after {
@@ -257,7 +257,7 @@ table.unstyle td {
 }
 
 .entry-title {
-  width: 500px;
+  width: 465px;
   float: left;
   margin-left: 15px;
   letter-spacing: 0.05em;
