@@ -96,7 +96,7 @@ a:hover {
 div.post {
   font-family: museo-sans, arial, sans-serif;
   letter-spacing: 0.05em;
-  text-shadow: #C1BEB7 1px 1px 2px;
+  text-shadow: none;
 }
 
 div.post p {
