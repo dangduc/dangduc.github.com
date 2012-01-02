@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What the Shell!?
+published: false
 ---
 
 The following are scenarios that Unix command line tools can solve.

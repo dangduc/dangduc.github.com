@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Installing Node.js
+published: false
 ---
 
 I thought of playing around with Node.js. Node is a server implemented in C, that executes Javascript using Google’s V8 engine. Node handles many requests using only one thread, while popular servers like Apache allocate a thread for each request. Node is thought to be easy to scale, because so little resource is allocated for each request.
