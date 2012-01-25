@@ -6,7 +6,6 @@ title: About me
 <table class="unstyle">
 <tr>
 <td>
-<a href="/images/profile.png"><img title="Profile" src="/images/profile.png" alt="profile" width="179" height="192" /></a>
 </td>
 <td>
 <p>
