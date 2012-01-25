@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Migration to Jekyll
+published: false
 ---
 
 I have migrated to [Jekyll](http://jekyllrb.com/) from WordPress. Jekyll is a static html generator for blogging. The following is an explanation of why I changed platforms.

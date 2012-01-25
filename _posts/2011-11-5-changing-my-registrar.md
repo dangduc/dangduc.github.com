@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Changing my Registrar
+published: false
 ---
 
 I decided to change my registrar and DNS service. Here's why...

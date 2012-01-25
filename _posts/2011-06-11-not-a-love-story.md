@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Not a Love Story
+published: false
 ---
 
 So I re-watched 500 Days of Summer. I don’t typically re-watch movies, but I did this one. The story line cleverly jumps backwards and forwards in time, telling the progression of Tom’s romance with Summer. I say Tom’s, because the story is shown through his perspective. We garner glimpses of Summer’s state of mind through Tom. I say “cleverly”, but I cannot substantiate that claim (because I don’t feel like it). The visual cue cards in the form of numbered days helps to alleviate confusion on where a scene is in time sequence. And its very cute.
