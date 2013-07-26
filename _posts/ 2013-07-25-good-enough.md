@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Good Enough
+published: true
 ---
 
 "You should treat others the way you want to be treated" is a saying television taught me when I was a young person. The Golden Rule helps guide people to 'do the right' thing. You shouldn't steal because you wouldn't want people to steal from you. And you should help old women walk across the street because you would want to be walked across the street, too. Er --that doesn't make sense. What if you're a young male in his early twenties. No way you'd need help walking across the street by an older woman. Unless she's a cougar and you're walking to a hotel. 
