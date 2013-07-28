@@ -92,6 +92,7 @@ div.post {
   font-family: 'source_sans_proregular', arial, sans-serif;
   letter-spacing: 0.05em;
   text-shadow: none;
+  font-size: 18px;
 }
 
 div.post p {
