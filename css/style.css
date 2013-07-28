@@ -86,7 +86,6 @@ a:hover {
 }
 
 .posts {
-  line-height: 1.5;
   text-align: left;
   height: 100%;
 }
@@ -98,9 +97,9 @@ div.post {
 }
 
 div.post p {
-  font-family: adelle, serif;
-  color: #222222;
-  font-size: 16px;
+  font-family: 'Domine', serif;
+  line-height: 135%;
+  font-size: 18px;
   padding: 10px 0 10px 0;
   margin: 0 0 10px 0;
 }
