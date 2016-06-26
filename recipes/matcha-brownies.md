@@ -31,10 +31,10 @@ title: Matcha Brownies
 5. Mix (3) and (4) and put it in a sheeted pan.
 6. Bake the dough for 40 min. at 300°.
 7. Let pan sit on a counter for 30 min. before cutting.
-8. Optionally, dust brownies with powdered sugar
+8. Optionally, dust brownies with powdered sugar.
 
 ### Notes
 1. Alternatively, bake for 50 mins for a more dry brownie texture.
 2. Keep leftover brownies moist by storing in an airtight container 2 hours out of the oven.
 
-Let it cool…or try it while it's warm! Enjoy!
+Let it cool… or try it while it's warm! Enjoy!
