@@ -3,7 +3,7 @@ layout: page
 title: Matcha Brownies
 ---
 
-### Ingredients:
+## Ingredients:
 
 - butter: 160 g [about 1 stick]
 - roasted walnut: 100 g [~1 cup]
@@ -14,15 +14,15 @@ title: Matcha Brownies
 - green tea powder: 2 tablespoons
 - powdered sugar (optional)
  
-### Cooking directions
+## Cooking directions
 
-#### Prep
+### Prep
 
 1. Leave butter out until it turns soft naturally.
 2. Cut walnuts into small pieces. [Or not.]
 3. Mix eggs.
 
-#### Mixing
+### Mixing
 
 1. In a bowl, mix butter and sugar until it turns whitish.
 2. Add mixed egg little by little, then add vanilla extract.
@@ -35,6 +35,6 @@ title: Matcha Brownies
 
 Let it cool…or try it while its warm! Enjoy!
 
-#### Notes
+### Notes
 1. Alternatively, bake for 50 mins for a more dry brownie texture.
 2. Keep leftover brownies moist by storing in an airtight container 2-hours out of the oven.
