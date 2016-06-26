@@ -33,8 +33,8 @@ title: Matcha Brownies
 7. Let pan sit on a counter for 30 min. before cutting.
 8. Optionally, dust brownies with powdered sugar
 
-Let it cool…or try it while its warm! Enjoy!
-
 ### Notes
 1. Alternatively, bake for 50 mins for a more dry brownie texture.
 2. Keep leftover brownies moist by storing in an airtight container 2-hours out of the oven.
+
+Let it cool…or try it while its warm! Enjoy!
