@@ -5,14 +5,14 @@ title: Matcha Brownies
 
 ## Ingredients
 
-- butter: 160 g [about 1 stick]
-- roasted walnut: 100 g [~1 cup]
-- sugar: 120 g [~1.25 cup]
-- egg: 2
-- flour: 100 g [~1 cup]
-- vanilla extract: 1 teaspoon
-- green tea powder: 2 tablespoons
-- powdered sugar (optional)
+* butter: 160 g [about 1 stick]
+* roasted walnut: 100 g [~1 cup]
+* sugar: 120 g [~1.25 cup]
+* egg: 2
+* flour: 100 g [~1 cup]
+* vanilla extract: 1 teaspoon
+* green tea powder: 2 tablespoons
+* powdered sugar (optional)
  
 ## Directions
 
