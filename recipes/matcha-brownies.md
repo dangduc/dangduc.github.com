@@ -22,6 +22,8 @@ title: Matcha Brownies
 2. Cut walnuts into small pieces. [Or not.]
 3. Mix eggs.
 
+### Cook
+
 1. In a bowl, mix butter and sugar until it turns whitish.
 2. Add mixed egg little by little, then add vanilla extract.
 3. Add walnuts.
