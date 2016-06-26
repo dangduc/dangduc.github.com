@@ -27,7 +27,6 @@ title: Matcha Brownies
 1. In a bowl, mix butter and sugar until it turns whitish.
 2. Add mixed egg little by little, then add vanilla extract.
 3. Add walnuts.
-
 4. In a separate bowl, mix flour and matcha tea powder and strain it through a sieve.
 5. Mix (3) and (4) and put it in a sheeted pan.
 6. Bake the dough for 40 min. at 300°.
