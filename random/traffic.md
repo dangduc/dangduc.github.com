@@ -15,13 +15,13 @@ If you got the cash but no time spare, the least amount of effort required to ti
 
 > If you do not wish to challenge your traffic citation—and there is no mandatory court appearance—you must pay the bail for noncorrectable violations, and provide proof of correction and pay the fees for any correctable violations by the due date on the citation. [When traffic bail is required](http://www.courts.ca.gov/8452.htm).
 
-> You may plead guilty and pay the fine, also referred to as “bail.” You may send your payment and a copy of the citation or the reminder notice to the courthouse. If your citation includes correctable violations, such as expired registration, be sure to include the proof of correction. If it has not been corrected, you must appear in court to determine the proper fine amount. When the court receives your payment, your case will be closed. [Plead guilty and pay the traffic fine](http://www.courts.ca.gov/8452.htm)
+> You may plead guilty and pay the fine, also referred to as “bail.” You may send your payment and a copy of the citation or the reminder notice to the courthouse. If your citation includes correctable violations, such as expired registration, be sure to include the proof of correction. If it has not been corrected, you must appear in court to determine the proper fine amount. When the court receives your payment, your case will be closed. [Plead guilty and pay the traffic fine](http://www.courts.ca.gov/8452.htm).
 
 ## Trial by Declaration
 
 If you don't want to give *any* money to the government and can spare a couple hours of your time, you can go down the route of fighting the ticket yourself. You won't even have to be there in person if everything works out! This is a *Trial by Declaration*. What that would look like is you'll do the research on your ticket yourself, put on your lawyer hat while getting up to speed about the vehicle laws, and then put on your writer's hat for writing the Trial by Declaration letter, the best resources are [California Legislative Information Database on Vehicle Code - VEH](http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=VEH&tocTitle=+Vehicle+Code+-+VEH) and patio11's writing on [how to interface with a bureaucracy through leaving a solid paper trail](https://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/) (scroll to the section on "Form letters and the inadvisability thereof").
 
-If you're willing to risk a little extra money, you can hire a company that specializes in helping you fight traffic tickets, like the guys at [TicketNinja](ticketninjaca.com). The service is relatively low priced ($99). This is because the company is a not a law firm, but a [Legal Document Assistant](http://www.calda.org/what-is-a-legal-document-assistant-lda-). The keyword is *help*. TicketNinja will gather information from you about your situation (through a webform and possibly follow-up emails) and *write* your Trial by Declaration letter for you, but you will be representing yourself (in the legal sense), and you will be *mailing the letter yourself*.
+If you're willing to risk a little extra money, you can hire a company that specializes in helping you fight traffic tickets, like the guys at [TicketNinja](ticketninjaca.com). The service is relatively low priced ($99). This is because the company is not a law firm, but a [Legal Document Assistant](http://www.calda.org/what-is-a-legal-document-assistant-lda-). The keyword is *help*. TicketNinja will gather information from you about your situation (through a webform and possibly follow-up emails) and *write* your Trial by Declaration letter for you, but you will be representing yourself (in the legal sense), and you will be *mailing the letter yourself*.
 
 ## Traffic School
 
@@ -33,7 +33,7 @@ There is potential downside to fighting your traffic ticket. And is is hinted at
 > (2)Ineligible offenses
 > (B)A violation that occurs within 18 months after the date of a previous violation
 > (G)A speeding violation in which the speed alleged is more than 25 miles over a speed limit
-[2018 California Rules of Court Rule 4.104. Procedures and eligibility criteria for attending traffic violator school](http://www.courts.ca.gov/cms/rules/index.cfm?title=four&linkid=rule4_104)
+[2018 California Rules of Court Rule 4.104. Procedures and eligibility criteria for attending traffic violator school](http://www.courts.ca.gov/cms/rules/index.cfm?title=four&linkid=rule4_104).
 
 ## Timeline
 
@@ -53,15 +53,19 @@ If you decide to do Trial by Declaration, you should send the written mail 5 day
 
 > Any person who has received a written notice to appear may, prior to the time at which the person is required to appear, plead not guilty in writing in lieu of appearing in person. The written plea shall be directed to the court named in the notice to appear and, if mailed, shall be sent by certified or registered mail postmarked not later than *five days* prior to the day upon which appearance is required. [VEHICLE CODE 40519b](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40519.&lawCode=VEH).
 
-> If the defendant elects to have a trial by written declaration, the defendant shall, at the time of submitting that declaration, *submit bail* in the amount established in the uniform traffic penalty schedule pursuant to Section 40310. If the defendant is found not guilty or if the charges are otherwise dismissed, the amount of the bail shall be promptly refunded to the defendant. [VEHICLE CODE 40902b](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40902.&lawCode=VEH)
+> If the defendant elects to have a trial by written declaration, the defendant shall, at the time of submitting that declaration, *submit bail* in the amount established in the uniform traffic penalty schedule pursuant to Section 40310. If the defendant is found not guilty or if the charges are otherwise dismissed, the amount of the bail shall be promptly refunded to the defendant. [VEHICLE CODE 40902b](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40902.&lawCode=VEH).
 
 > You may avoid all court appearances by choosing to have a trial by written declaration. This means that instead of going to court to contest your case, you and the citing officer provide testimony and any evidence in writing. (See Veh. Code, § 40902.) You must post the bail amount to use this procedure. If you are found not guilty, your bail will be returned. (See further discussion below, under “Trial by Written Declaration,” for more information about this procedure.) You must exercise this option on or before the “date to appear” on your citation. [When traffic bail is required](http://www.courts.ca.gov/8452.htm).
 
-Then according, to the TicketNinja site, it should take 2-3 months for a response. If you win, you'll get the fine amount back as refund within a couple of months. If the court decides against you, you can give up at that point, you can then go visit the court in-person to request traffic school. You can also fight it a second time, but this time it has to be in-person at a *trial de novo*.
+Then according, to the TicketNinja site, it should take 2-3 months for a response. If you win, you'll get the fine amount back as refund. (When? I'm not sure.) If the court decides against you, you can give up at that point, you should be able to request traffic school. (Not sure what the instructions are for doing so. Maybe need to visit in-person.) You can also fight it a second time, but this time it has to be in-person at a *trial de novo*.
 
-> If the defendant is dissatisfied with a decision of the court in a proceeding pursuant to this section, the defendant shall be granted a trial de novo. [VEHICLE CODE 40902d](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40902.&lawCode=VEH)
+> If the defendant is dissatisfied with a decision of the court in a proceeding pursuant to this section, the defendant shall be granted a trial de novo. [VEHICLE CODE 40902d](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40902.&lawCode=VEH).
 
 The trial date is typically set a month or two from then. If you lose, you can request traffic school.
 
 ## Notes
+
 There's some pecularities that may or may not apply to your court. In San Francisco, if you plea *no contest*, the court will typically (and it was basically 100% in my experience) slash your bail amount by up to 50%, typically 40%. Of course, they are also very nice about allowing traffic school if you plea guilty/no contest.
+
+Even if you do lose your case, you might be able to convince the court to lower your fines:
+> [..] when you appear in court you may ask the court to consider your ability to pay and reduce the amount ordered for the conviction, or you may request community service or a payment plan. [Once you have paid your fine](http://www.courts.ca.gov/8452.htm).
