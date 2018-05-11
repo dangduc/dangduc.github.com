@@ -11,7 +11,7 @@ Don't panic. Take a deep breath. Relax. With good information and sound advice y
 
 ## Giving Up
 
-If you got the cash but no time spare, the least amount of effort required to tied all this up with a pretty bow is to pay the full fine amount without going to trial which means you would be implicitly admitting guilt, and then eating the extra points on your record through higher insurance premiums even if you ought to attend traffic school. This is not practical for most people.
+If you got the cash but no time spare, the least amount of effort required to tied all this up with a pretty bow is to pay the full fine amount through mail without going to trial which means you would be implicitly admitting guilt, and then eating the extra points on your record through higher insurance premiums. This is not practical for most people.
 
 > If you do not wish to challenge your traffic citation—and there is no mandatory court appearance—you must pay the bail for noncorrectable violations, and provide proof of correction and pay the fees for any correctable violations by the due date on the citation. [When traffic bail is required](http://www.courts.ca.gov/8452.htm).
 
@@ -23,9 +23,13 @@ And
 
 If you don't want to give *any* money to the government and can spare a couple hours of your time, you can go down the route of fighting the ticket yourself. Two choices: you can fight the ticket in-person, or you can do a written trial. Both methods carry unique upsides and downsides.
 
-Duking it out in court requires good communication skills under time-pressure. But you wouldn't have to post bail if you win nor wait for refund.
+Duking it out in court requires good communication skills under time-pressure. But you wouldn't have to post bail if you win nor wait for a refund.
 
-A Trial by Declaration requires a writte letter of defense and is arguably easier to win, because you should be able more clearly present your case. You won't even have to be there in person if everything works out! However, the downside is that you'll have to post bail at the time you send in your letter. And if you win, you'll be waiting for your refund.
+> You have the right to appear in court for arraignment to contest the alleged traffic infraction without prior deposit of bail. (Cal. Rules of Court, rule 4.105.) [When traffic bail is not required](http://www.courts.ca.gov/8452.htm).
+
+A Trial by Declaration requires a written letter of defense and is arguably easier to win, because you should be able to more clearly present your case. You won't even have to be there in person if everything works out! However, the downside is that you'll have to post bail at the time you send in your letter. And if you win, you'll be waiting for your refund.
+
+> If the defendant elects to have a trial by written declaration, the defendant shall, at the time of submitting that declaration, *submit bail* in the amount established in the uniform traffic penalty schedule pursuant to Section 40310. If the defendant is found not guilty or if the charges are otherwise dismissed, the amount of the bail shall be promptly refunded to the defendant. [VEHICLE CODE 40902b](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40902.&lawCode=VEH).
 
 For both choices, what that would look like is you'll do the research on your ticket yourself and put on your lawyer hat while getting up to speed about the vehicle laws. And if you're doing the Trial by Declaration, you'll also be put on your writer's hat for writing the defense letter, the best resources are [California Legislative Information Database on Vehicle Code - VEH](http://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=VEH&tocTitle=+Vehicle+Code+-+VEH) and patio11's writing on [how to interface with a bureaucracy through leaving a solid paper trail](https://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/) (scroll to the section on "Form letters and the inadvisability thereof").
 
@@ -53,18 +57,11 @@ There's a court date on your traffic ticket, with the court's address. I imagine
 
 If you go to court on the court date on the ticket, you don't have to post bail, unless you are found guilty.
 
-> You have the right to appear in court for arraignment to contest the alleged traffic infraction without prior deposit of bail. (Cal. Rules of Court, rule 4.105.) [When traffic bail is not required](http://www.courts.ca.gov/8452.htm).
-
-And
 > Except under limited circumstances as provided by California law, payment of bail for a traffic infraction is not required to contest your ticket. If you wish to schedule a trial without appearing first for an arraignment or you wish to have a trial by written declaration, you must pay the full bail which will be returned if you are found not guilty and the case is dismissed. [Options After Getting a Traffic Ticket (for Infractions)](http://www.courts.ca.gov/8452.htm).
 
 If you decide to do Trial by Declaration, you should send the written mail 5 days before this date, including the bail amount as cheque.
 
 > Any person who has received a written notice to appear may, prior to the time at which the person is required to appear, plead not guilty in writing in lieu of appearing in person. The written plea shall be directed to the court named in the notice to appear and, if mailed, shall be sent by certified or registered mail postmarked not later than *five days* prior to the day upon which appearance is required. [VEHICLE CODE 40519b](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40519.&lawCode=VEH).
-
-And
-
-> If the defendant elects to have a trial by written declaration, the defendant shall, at the time of submitting that declaration, *submit bail* in the amount established in the uniform traffic penalty schedule pursuant to Section 40310. If the defendant is found not guilty or if the charges are otherwise dismissed, the amount of the bail shall be promptly refunded to the defendant. [VEHICLE CODE 40902b](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40902.&lawCode=VEH).
 
 And
 
