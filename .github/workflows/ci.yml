@@ -40,7 +40,7 @@ jobs:
         variant: ${{ matrix.racket-variant }}
 
     - name: Install Pollen and its dependencies
-      run: raco pkg install pollen --auto --batch
+      run: raco pkg install --auto --batch pollen
 
     - name: Run the tests
       run: xvfb-run raco pollen test
