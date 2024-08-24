@@ -1,4 +1,4 @@
-name: CI
+name: Update Static Files
 
 on:
   workflow_dispatch:
@@ -17,15 +17,17 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        racket-version: ["6.12", "7.9", "8.4", "current"]
-        racket-variant: ["BC", "CS"]
-        # CS builds are only provided for versions 7.4 and up so avoid
-        # running the job for prior versions.
-        exclude:
-          - {racket-version: "6.12",   racket-variant: "CS"}
+        racket-version: ["8.4"]
+        racket-variant: ["CS"]
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Pull branch changes
+      run: |
+        git pull
 
     - uses: Bogdanp/setup-racket@v1.11
       with:
@@ -36,8 +38,16 @@ jobs:
     - name: Install Pollen and its dependencies
       run: raco pkg install --auto --batch pollen
 
+    - name: Build static files
+      run: raco pollen render
+
     - name: Run the tests
       run: xvfb-run raco pollen test
 
-    - name: Build static files
-      run: raco pollen render
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: github-actions
+        author_email: github-actions@github.com
+        message: \[BOT\] Update static files
+        add: "**/**"
