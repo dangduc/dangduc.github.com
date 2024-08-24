@@ -49,5 +49,5 @@ jobs:
       with:
         author_name: github-actions
         author_email: github-actions@github.com
-        message: [BOT] Update static files
+        message: \[BOT\] Update static files
         add: "**/**"
