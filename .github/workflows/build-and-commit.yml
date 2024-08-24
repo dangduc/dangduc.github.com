@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["develop"]
+
+env:
+  REPO: "dangduc/dangduc.github.com"
+  SOURCE_BRANCH: ${{ github.ref }}
+  TARGET_BRANCH: ${{ github.ref }}
+
+jobs:
+  run:
+    name: "Build static files with Racket '${{ matrix.racket-version }}' (${{ matrix.racket-variant }})"
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        racket-version: ["8.4"]
+        racket-variant: ["CS"]
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Pull branch changes
+      run: |
+        git pull
+
+    - uses: Bogdanp/setup-racket@v1.11
+      with:
+        distribution: 'full'
+        version: ${{ matrix.racket-version }}
+        variant: ${{ matrix.racket-variant }}
+
+    - name: Install Pollen and its dependencies
+      run: raco pkg install --auto --batch pollen
+
+    - name: Build static files
+      run: raco pollen render
+
+    - name: Run the tests
+      run: xvfb-run raco pollen test
+
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: github-actions
+        author_email: github-actions@github.com
+        message: [BOT] Update static files
+        add: "**/**"
