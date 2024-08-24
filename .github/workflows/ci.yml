@@ -1,6 +1,14 @@
 name: CI
 
-on: [push, pull_request]
+on:
+  workflow_dispatch:
+  push:
+    branches: ["develop"]
+
+env:
+  REPO: "dangduc/dangduc.github.com"
+  SOURCE_BRANCH: ${{ github.ref }}
+  TARGET_BRANCH: ${{ github.ref }}
 
 jobs:
   run:
@@ -17,8 +25,13 @@ jobs:
           - {racket-version: "6.12",   racket-variant: "CS"}
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Pull branch changes
+      run: |
+        git pull
 
     - uses: Bogdanp/setup-racket@v0.11
       with:
@@ -34,3 +47,11 @@ jobs:
 
     - name: Build static files
       run: raco pollen render
+
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: github-actions
+        author_email: github-actions@github.com
+        message: Update static files
+        add: "**/**"
