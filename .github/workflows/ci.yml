@@ -33,7 +33,7 @@ jobs:
       run: |
         git pull
 
-    - uses: Bogdanp/setup-racket@v0.11
+    - uses: Bogdanp/setup-racket@v1.11
       with:
         distribution: 'full'
         version: ${{ matrix.racket-version }}
