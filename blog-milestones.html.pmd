@@ -1,0 +1,12 @@
+#lang pollen
+◊(define title "Blog Milestones TODOs")
+
+# ◊|title|
+
+- [ ] 1 - Remove hello world example article.
+- [ ] 5 - Add header/footer.
+- [ ] 10 - Add css styling.
+- [ ] 15 - Add rss.
+- [ ] 20 - Point DNS to site.
+- [ ] 25 - Add collophon.
+- [ ] 30 - Add CDN.
