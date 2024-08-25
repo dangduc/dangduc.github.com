@@ -4,9 +4,13 @@
 # ◊|title|
 
 - [ ] 1 - Remove hello world example article.
+- [ ] 2 - Fix index page.
+- [ ] 3 - Rewrite git history to fix git author metadata.
+- [ ] 4 - Add bare README.
 - [ ] 5 - Add header/footer.
 - [ ] 10 - Add css styling.
 - [ ] 15 - Add rss.
 - [ ] 20 - Point DNS to site.
 - [ ] 25 - Add collophon.
 - [ ] 30 - Add CDN.
+- [ ] 100 - Entries henceforth written in Pollen markup.
