@@ -1,0 +1,162 @@
+#lang pollen
+Kill It With Fire
+
+Saw it the plane. I went in completely cold and wasn't familiar with Ramsay's work. Afterwards, I spent way too long trying to figure out what the film was about.
+
+Where I landed is different from basically anything I've read about the film.
+
+In a fireside chat at Cannes, Ramsay says,
+
+"This whole postartum thing is just bullshit. It's not about that. It's about a relationship breaking down, it's about love breaking down, and sex breaking down after having a baby. And it's also about a creative block."
+
+Then of course critics went and wrote the postpartum piece anyway. haha.
+
+The thin is I don't think they're wrong, exactly.
+
+The awareness agenda is partly how a film like this gets made and ultimately seen. A demand for a strong female performance channeled through a universal but under-discussed topic is how you get someone of Jennifer Larwrence's caliber attached. Pattinson is *cough* how you get all those thirsty romance litfic fans through the door.
+
+The problem is the headiness of the postpartum subject combined with structural decisions made Ramsay's stated intentions difficult to convey to audiences through the film.
+
+Ebert said film is an empathy machine. You go in, get swept up, then leave having experienced being someone else for a few silver minutes.
+
+The film's stated target is Lawrence's character, Grace. You're supposed to understand postpartum from the inside. But Ramsay shoots Lawrence entirely from the outside. In one scene, Pattinson's character, Jackson, pulls Grace into the car to have a real talk. To hash it out as it were. Here you can see Ramsay's hand. The camera switches to the passenger side with dramatic high-contrast. Grace is turned away towards the camera, eyes bulged, face an inscrutable mask of ah something. We're not sure. She looks like a kidnapping victim and Jackson is her capture. In anothe scene, Grace is on all fours, prowling through tall Montana grass. In another, she's alone in a hotel suite in her wedding dress, complaining to the receptionist about ice. A hallucinated guitarist strums leisurely on the bed. Then she bloodies her forehead on the dressing table mirror.
+
+The exterior shooting direction here makes Grace's interiority opaque. Other times, it does work. In the car scenes, the interior camera puts either Lawrence or Pattinson in focus, visually conveying the relational distance between their two respective characters. When the camera is outside pointing into the car, the car is haloed by soft light, you can almost imagine what it must've been like on long leisurely romantic drives, before the baby, in the before times.
+
+In the evenings, there is, inexplicably, never any artificial lighting within the house. Ramsay intended this to make the house feel cold and unlivable.
+
+Interesting enough, the dark evenings are also when Grace seem the most aware and sane. Grace frequently wakes up in the middle of the night to find Jackson asleep. In the evenings, Jackson is always never around. I'm not going to shoot my own dog, he proclaims, before proceeding to go back to sleep, leaving a barking dog to die slowly in pain. In another scene, Grace complains that the last time they had sex, Jackson was asleep.
+
+One evening, Grace accidentally spills breast milk blotting out pen ink. She proceeds to mix the two on paper. In another, she finds Jackson's father walking out to the woods. She dances with him in a diaphanous nightgown under the moonlight. She walks into a shed and tells Helmet, played by Stanfield, to cut his lip. He does.
+
+In the evenings, the house is dark and unalive, with no one figuratively around. In the evenings, outside the house, are chance encounters and magical realism.
+
+The day/night contrast is an intended component of the film's visual language. During the day, Grace can barely hold it together. In night, she gets a reprieve to be herself, again. In the penultimate scene, as darkness falls, Grace says "Enough." She can't bear to see another day.
+
+Lawrence says sometimes they o on set with pages of dialogue, but end up shooting no dialogue. I don't think dialogue or lack of dialogue makes a film's interiority more or less legible. In the movie, In the Mood for Love, there is a lot of tension and virtually no dialogue, but there also isn't the gravity of a performance nor a heady topic to pull the audience away from desired intent.
+
+Ramsay says of the film, "It's my kind of comedy and love story, so it's going to be dark and fucked-up."
+
+The use of humor by and on the characters is a port into their interiority. Jackson's humor is used to manage the room, defuse tension, and hopefully restore normalcy. His jokes are of someonw who believes things can be okay again. The obliviousness is the humor.
+
+Grace, locked herself in the bathroom, literally scratching at the wallpaper,
+
+"I don't want to shit in the bush, I want to shit in the toilet"
+"Come on, it's coming out"
+"Come on, it's going to be all over the floor"
+"I'm starting to smell it"
+
+The seriousness of the situatin only hits when he finally enteres the bathroom.
+
+Grace opens the glovebox and finds a pack of cigarettes containing condoms,
+
+"Grace I know what you're thinking. That's just an old pack. You've seen them before"
+"They're Greg's"
+"You and Greg are very very close"
+
+Grace proceeds to blow the condoms like a balloon.
+
+Grace is bathos. She's not managing the room. Often she's the only one in on the joke.
+
+At the kitchen table with Jackson's bereaved mother,
+
+"He shot himself, uncle Frank"
+"Yes"
+"And you found him?"
+"I did"
+"That must've been awful"
+"It was"
+"In the head?"
+"In the head!?"
+"No"
+"Where then?"
+"Heart? Chest?"
+"No"
+"Leg? Feet? Back? Arm? Stomache? Dick?"
+"Ass?"
+"Oh my god he shot himself in his own ass intentionally!?"
+"You know he looks just like you"
+"Uncle Frank?"
+"No, the baby you goose"
+
+At a houseparty,
+
+"I think I nearly lost my mind, for the first six months"
+"When do you think you'll be getting it back?"
+
+Sometimes the joke is applied to the participants and addressed to the audience. After Grace jumps into a swimming pool at a houseparty, Jackson has a panic attack and Grace ends up being the one to comfort him,
+
+"What your chest hurts?"
+"Breath with me"
+"Yeah, see?"
+"You're okay, you're okay"
+"He's okay"
+
+Hilarious.
+
+Helmet, is a walking joke. Grace tells him to cut his lip and he does. Later you see helmet's lip visibly tremble when Grace accosts him and his family in a parking lot.
+
+It's tragic-comedy: Jackson is oblivious, Grace is helplessly aware, and Helmet is just hopeless.
+
+Comedy can expose interiority. You laugh because you understood. There wasn't enough here for the empathy machinery to grip onto.
+
+The movie makes another concession to Grace's interiority.
+
+There's a scene towards the end where Grace is coming home from the insanity ward. Outwardly she's totally fine now, really, but inwardly, we see a series of flashing short segments including from the previous minutes of movie runtime, and ends with an original scene taking place presumably while Grace was in the ward, as she imagines speaking to Jackson's late father.
+
+"When I came in you were saying"
+"What are you sorry about?"
+"I don't remember"
+"Do you think you need to apologize for anything?"
+"No"
+"Do I have to get up?"
+"No, Grace, you don't need to do anything"
+"I can just stay in bed?"
+"If that's what you want"
+"Oh, it's you. How are you?"
+"Everyone misses you"
+
+
+Even as devices, visual language of day/night, the comedy, the flashback; these aren't enough to cross the empathic bridge. The success of Ramsay's previous films is existence proof for the counterargument that exterior shooting can work. It just doesn't work here. There's nothing to hold onto because Grace's epistemology is the film's epistemology.
+
+The film Ramsay actually made structurally is Jackson's film: How does it feel to love someone unreachable.
+
+The irony is the empathy machine is actually running on Jackson, not Grace.
+
+The audience share Jackson's epistemological position the entire film. Lack Jackson, you watch Grace from the outside as she spirals deeper into insanity. Like Jackson, you get one momeny of genuine contact --The guitar song in the last car ride. Before Grace walks into the fire and you, like Jackson, stops short. You, like jackson, can't comprehensin why someone would do it, despite not being surprised at the final outcome.
+
+The Straussian reading might, on the surface level, is it's about the devastation wrought by postpartum to personal identity and romantic relationships. But the deeper take away is how it feels from the inside watching someone you used to know go crazy and then being helpless to do anything about it.
+
+There's a Bill Burr joke. He's walking down a sidewalk minding his own business when all of sudden he gets bullied off the pavement by an angry butch lady. In a stroke of insight Burr observes she's probably in a fould mood because of her crazy non-sensical girlfriend, because you know, crazy inexplicable girlfriends are part of the hetero guy's implicit environment.
+
+So the irony is that audiences watchign Die My Love should come away understanding what it's like to lvoe someone you can't reach. I don't think that's the intentional empathy target, which I think is hilarious.
+
+The film convey's Grace's interiority through visual and comedic devices, but we never really get direct access to her thinking. The audience is left to do the work. The single moment of legible interiority is the verdict, "Enough." directed at Jackson.
+
+The visual language again, as dust becomes night, Grace walks into the forest and the fire.
+
+There's a line in Before Sunrise where Celine says that the most important thing two people can do is attempt to communicate. Succeeding not as important. That line is the thesis of the entire Before trilogy. Before Sunrise is the attempt going real good for a single night. Before Sunset is the cost of it being interrupted and its redemption. Before Midnight is what happens when two people who were great at the attempt start failing at it.
+
+Die My Love is about the attempt breaking down completely at the get-go and then continously for the next 2 hours. Grace gives the prognosis,
+
+"Where are you, Grace"
+"I'm right here. You just can't see me"
+"I can't go back"
+"I love you"
+"I love you"
+
+"Enough." is the legible moment she stops trying to communicate at all.
+
+Before Midnight ends ambiguosly. Celine and Jess, older, hollower, and bickering, and full of regrets. On its own, the takeway is nhilism. What even bother to communicate when it ends like this? But that's not right, because the prior two films provided the weight of what's being risked. The audience fills the ambuity with hope because Before Sunrise and Before Sunset places something there to hope with.
+
+Die My Love is trying to something similar with the guitar scene. Giving you a glimpse of what Grace and Jackson's love actually felt like before everything broke. The problem it's a single scene that arrives near the end, after a relentless 2 hours. To the viewer 'enough' is a confirmation of hopelessness rather.
+
+The awareness agenda needs the empathy machine to run on Grace's experience in order to produce understanding of postartum in people who haven't had it. The exterior formal direction makes that hard to impossible. The unconverted leave having something something they didn't enter. And they don't leaving thinking postartum is serious, I should be more compassionate. I think audiences leave with a somatic reponse to the depicted conditions. The isolation, the failing relationship. This probably will do quiet work on future decisions without them consenting to it. The film basically functions as anti-natilist propaganda in its most effective moments. I don't think Ramsay intended this.
+
+Grace is a writer who stops writing the moment the baby arrives. The manuscript she burns at the end before walking into the fire is the only concrete evidence of her interiority. Whether that registers as tragedy depends on how you think about the alternate worlds where creative work gets made. The what might've beens.
+
+I find it deeply hilarious that a flim about what it's like to spiral into insanity from the inside ends up being received as a portrait of what it's like to watch someone else go insane from the outside.
+
+
+
+
