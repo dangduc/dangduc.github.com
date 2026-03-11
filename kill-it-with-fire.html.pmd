@@ -1,5 +1,7 @@
 #lang pollen
-Kill It With Fire
+◊(define title "Kill It With Fire")
+
+# ◊|title|
 
 Saw it the plane. I went in completely cold and wasn't familiar with Ramsay's work. Afterwards, I spent way too long trying to figure out what the film was about.
 
