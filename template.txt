@@ -1,0 +1,16 @@
+◊(require racket/string (only-in txexpr get-tag get-attrs get-elements txexpr?))◊(define (xexpr->text x)
+  (cond
+    [(string? x) x]
+    [(txexpr? x)
+     (define tag (get-tag x))
+     (define body (string-join (map xexpr->text (get-elements x)) ""))
+     (case tag
+       [(root) body]
+       [(p) (string-append body "\n\n")]
+       [(h1 h2 h3 h4 h5 h6) (string-append body "\n\n")]
+       [(em strong) body]
+       [(ul ol) (string-append body "\n")]
+       [(li) (string-append "- " body "\n")]
+       [(blockquote) (string-append "> " body "\n\n")]
+       [else body])]
+    [else ""]))◊(xexpr->text doc)
